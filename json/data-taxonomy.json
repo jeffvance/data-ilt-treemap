@@ -20,7 +20,7 @@
       { "name": "Multivalue DBMS", "rht": 0 },
       { "name": "Native XML DBMS", "rht": 0 },
       { "name": "Event Stores", "rht": 0 },
-      { "name": "Content Stores", "rht": 1 },
+      { "name": "Content Stores", "rht": 1, "rht-product": "JBoss ModeShape" },
       { "name": "Navigational DBMS", "rht": 0 }
      ]
     }
