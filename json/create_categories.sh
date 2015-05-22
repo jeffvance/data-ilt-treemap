@@ -13,14 +13,8 @@ grep type\": $CONV_JSON_FILE | \
 # define an array containing these categories
 readarray categories </tmp/uniq_categories
 
-# remove existing category subset files
-for c in "${categories[@]}"; do
-   f="subset_${c// /_}"
-   rm -f $f
-done
-
 # write each category to a separate file
 for c in "${categories[@]}"; do
    f="subset_${c// /_}"
-   grep -h -B5 -A1 "$c" $CONV_JSON_FILE >>$f
+   grep -h -B5 -A1 "$c" $CONV_JSON_FILE >$f
 done
