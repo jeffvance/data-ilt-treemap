@@ -1,5 +1,5 @@
 #!/bin/bash
-# Convert the "convertcvs.json" file to separate files for each db category.
+# Convert the "raw-data.json" file to separate files for each db category.
 #
 # constants
 RAW_DIR='raw-data'
