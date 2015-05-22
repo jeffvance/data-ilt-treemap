@@ -224,8 +224,6 @@ function click(d) {
   update(d);
 }
 
-
-
 function color(d) {
 	
 	if(d["rht-product"] != null )
@@ -233,14 +231,13 @@ function color(d) {
 	
 	if(d._children){
 		/* node children exist & are collapsed */
-		return "#4442bd";
+		return "#4775FF";
 	}else if(d.children){
 		/* node children exist * are expanded */
-		
-		return "#c6dbef";
+		return "#75A3FF";
 	}
   /* node has no children */	
-  return "#fd8d3c";
+  return "#D6EBFF";
 }
 
 var divTool = d3.select("body")

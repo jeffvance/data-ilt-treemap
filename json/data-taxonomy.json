@@ -82,7 +82,8 @@
      "name": "Storage Infrastructure Software",
      "children" : [
       { "name": "Virtualization and Federation", "rht": 0 },
-      { "name": "File Systems and Volume Management", "rht": 1 },
+      { "name": "File Systems and Volume Management", 
+        "rht": 1, "rht-product": "Red Hat Global File System + RHEL File Systems, etc" },
       { "name": "Access and Path Management", "rht": 0 },
       { "name": "Automated Storage Tiering", "rht": 0 }
      ]
