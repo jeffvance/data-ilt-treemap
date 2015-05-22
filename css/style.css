@@ -1,5 +1,9 @@
 /* general styling */
 
+.data-ilt {
+  padding-left: 10px;
+}
+
 .data-ilt table {
   border-collapse: collapse;
 }
