@@ -14,15 +14,15 @@ cat <<EOF
 
 EOF
 
-[[ ! -f $CONV_JSON_FILE ]] && {
-  echo "ERROR: file \"$CONV_JSON_FILE\" is missing!";
-  echo "This file is the master JSON file containing all of the categories.";
-  exit 1; }
-
 [[ ! -d $RAW_DIR ]] && {
   echo "ERROR: the raw data dir, \"$RAW_DIR\", is missing.";
   echo "Most likely you are in the wrong working directory...";
   exit 1 ; }
+
+[[ ! -f $CONV_JSON_FILE ]] && {
+  echo "ERROR: file \"$CONV_JSON_FILE\" is missing!";
+  echo "This file is the master JSON file containing all of the categories.";
+  exit 1; }
 
 # 1st create a file containing all of the categories
 # remove \r, remove all double-quotes
