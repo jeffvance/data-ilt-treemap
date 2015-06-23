@@ -44,20 +44,21 @@ main {
 
 #wrapper {
   overflow: hidden;
+  width: 100%;
+  height: 600px;
 }
 
 #content {
-  margin-left: 230px; /* Same as 'nav' width */
+  margin-left: 220px; /* Same as 'nav' width */
 }
 
 #content iframe {
   width: 100%;
-  height: 500px;
+  height: 100%;
 }
 
 .innertube {
-  margin: 15px; /* Padding for content */
-  margin-top: 0;
+  margin: 0 10px 0 10px;
 }
 
 p {
