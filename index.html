@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Red Hat Data ILT</title>
+ <title>DATA: Technology and Industry Landscape</title>
  <meta charset="utf-8">
  <link type="text/css" rel="stylesheet" href="css/nav_template.css"/>
- <link type="text/css" rel="stylesheet" href="css/style.css"/>
 </head>
 
 <body>
+
 <header id="header">
- <h2>Background/Motivation</h2>
+ <h2>DATA: Technology and Industry Landscape</h2>
  <p>
- The landscape of technologies companies providign techologies related to "data"
- has been rapidly changing over the last few years. 
+ <b>(Red Hat Summit Session: <i>"Make a data-driven investment decision about big data"</i>)</b>
  </p>
 </header>
 
@@ -20,7 +19,7 @@
  <main>
   <div id="content">
    <div class="innertube">
-    <iframe name="iframe" srcdoc="Test iframe content">
+    <iframe name="iframe" src="home.html">
      Your browser needs to support iframes
     </iframe>
    </div>
@@ -29,89 +28,42 @@
 
  <nav id="nav">
   <div class="innertube">
-   <h3>Visualizations for Overall Data Technology and Vendor Landscape</h3>
+
+   <h3>General...</h3> 
    <ul>
     <li>
-     <a href="tax-indented-tree.html" target="iframe">Tax indented tree</a>
+     <a href="abstract.html" target="iframe">Abstract</a>
     </li>
     <li>
-     <a href="tax-dndTree.html" target="iframe">Tax dnd tree</a>
+     <a href="background.html" target="iframe">Background Information</a>
+    </li>
+    <li>
+     <a href="caveats.html" target="iframe">Caveats & Restrictions</a>
     </li>
    </ul>
-   <h3>Visualizatons for Database Portion of the Data Landscape</h3>
+
+   <h3>Data Technology and Industry Landscape</h3>
    <ul>
     <li>
-     <a href="bubble.html" target="iframe">Bubble</a>
+     <a href="relational-db.html" target="iframe">Relational Databases</a>
     </li>
     <li>
-     <a href="cluster-dendrogram.html" target="iframe">Cluster Dendogram</a>
+     <a href="non-relational-db.html" target="iframe">Non-Relational Databases</a>
     </li>
     <li>
-     <a href="dndTree.html" target="iframe">Dnd tree</a>
+     <a href="data-processing.html" target="iframe">Data Processing</a>
     </li>
     <li>
-     <a href="hierarchical-bar-chart.html" target="iframe">Hierarchial bar chart</a>
+     <a href="business-intelligence.html" target="iframe">Business Intelligence</a>
     </li>
     <li>
-     <a href="radial-tree.html" target="iframe">Radial treel</a>
-    </li>
-    <li>
-     <a href="zoomable-bubble.html" target="iframe">Zoomable bubble</a>
-    </li>
-    <li>
-     <a href="zoomable-partition.html" target="iframe">Zoomable partition</a>
-    </li>
-    <li>
-     <a href="zoomable-sunburst.html" target="iframe">Zoomable sun-burst</a>
-    </li>
-    <li>
-     <a href="zoomable-treemap.html" target="iframe">Zoomable tree-map</a>
+     <a href="storage-software.html" target="iframe">Storage Software</a>
     </li>
    </ul>
+
   </div>
  </nav>
 </div>
-
-<h3>Examples:</h3>
-<ul>
- <li><b>Non-Relatinal/NoSQL Databases:</b> Today there are a huge number of NoSQL technolgoies (>160 across 12 categories), offered commerically from a equally large number of vendors. </li>
- <li><b>"Big Data" data processing tools:</b> Today "Big Data" is an umbrella term that refers to a myriad of new technolgoies devloped to store and analyze data in volumes (or at velocities) which were previously impossible or impractical (economically). </li>
-  <li><b>Software Defined Storage:</b> The continued forward progress of commidity hardware has given rise to a number of "Software Defined Infrastructure" categories - where software on commodity hardware can increasingly replace specialized hardware at a fraction of the cost. "Software Defined Storage" solutions have emerged competing with specialize file, block and ojbect storage and offering "hyper-converged" compute and storage infrastructures.</li>
-</ul> 
-
-<h4>
-Notes/explanations... 
-</h4>
-
-<pre>
-Key: 
-================================================================================
-select 		Allows user to "select" a criteria (eg: size or count) to visualize
-                on; implemented as a mutually exclusive selection criteria
-click +/-	Allows user to click an object (usually to expand/collapse detail
-                underneath that object)
-zoom  		Allows user to "zoom" in on a point of reference by clicking it (and 
-                zoom back out by clicking elsewhere).
-
-All database    A full list of all database offering (relational and non-relational)
-                including more obscure offerings and offering types (no filtering).
-
-All categories  A list of all the categories, including the non-database categories, 
-                not all the entries.
-
-*               These visualizations should support some sort of "cutoff" criteria,
-                to allow user to filter.
-**              This visualization currently has no labels; need to implement labels
-                or some sort of mouse-over/hover to allow user to indentify details.
-</pre>
-<h2>
-Known Bugs/Limitations
-</h2>
-<p>
-Currently this does not work with Google Chrome Browser, but should work correctly
-with both Safari and Firefox. This will be fixed later when we host the web-page
-with with a webserver, etc. 
-</p>
 
 </body>
 </html>
