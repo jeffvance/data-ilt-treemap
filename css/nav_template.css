@@ -1,5 +1,8 @@
-/* 2-column-nav template */
-/* from: http://www.quackit.com/html/templates/layout_templates.cfm */
+/* header, footer, 2-column-nav template */
+
+html, body {
+ height: 100%;
+}
 
 body {
   margin:0;
@@ -18,19 +21,10 @@ body {
   padding-top: 15px;
 }
 
-main {
-  padding-bottom: 10010px;
-  margin-bottom: -10000px;
-  float: left;
-  width: 100%;
-}
-
 #nav {
-  padding-bottom: 10010px;
-  margin-bottom: -10000px;
   float: left;
   width: 230px;
-  margin-left: -100%;
+  height: 100vh;
   background: #eee;
 }
 
@@ -45,16 +39,17 @@ main {
 #wrapper {
   overflow: hidden;
   width: 100%;
-  height: 600px;
 }
 
 #content {
-  margin-left: 220px; /* Same as 'nav' width */
+  margin-left: 230px; /* Same as 'nav' width */
+  width: calc(100vw - 230px);
+  position: absolute;
 }
 
 #content iframe {
   width: 100%;
-  height: 100%;
+  height: 100vh;
 }
 
 .innertube {
