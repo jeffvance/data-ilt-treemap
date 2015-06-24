@@ -1,11 +1,16 @@
 #!/bin/bash
 # Convert the "raw-data.json" file to separate files for each db category.
 #
-# constants
+# constants -- should only need to change these values to accomodate new json
+#              records
 RAW_DIR='raw-data'
 CONV_JSON_FILE="$RAW_DIR/raw-data.json"
 SUBSET_JSON_PREFIX="$RAW_DIR/subset_"
 TMP_UNIQ_FILE='/tmp/uniq_categories'
+# json file layout constants
+CATEGORY_FIELD_NAME='Type'
+NUM_FIELDS_PER_ENTRY=8 # num fields within each {...} json entry
+TYPE_FIELD_POS=6 # "type:" row number (1-relative) in the json entry
 
 cat <<EOF
 
@@ -25,11 +30,11 @@ EOF
   exit 1; }
 
 # 1st create a file containing all of the categories
-# remove \r, remove all double-quotes
-grep type\": $CONV_JSON_FILE \
-	| uniq \
+# remove \r, remove double-quotes and trailing commas
+grep $CATEGORY_FIELD_NAME\": $CONV_JSON_FILE \
+	| sort -u \
 	| cut -d: -f2 \
-	| sed -e 's/\r//g' -e 's/"//g' \
+	| sed -e 's/\r//g' -e 's/"//g' -e 's/,$//' \
 	>$TMP_UNIQ_FILE
 
 # define an array containing these categories
@@ -38,12 +43,17 @@ readarray -t categories <$TMP_UNIQ_FILE
 echo " There are ${#categories[@]} unique categories..."
 echo
 
+# compute before/after grep values in order to extract the entire json record
+let grep_after=NUM_FIELDS_PER_ENTRY-TYPE_FIELD_POS+1
+let grep_before=TYPE_FIELD_POS
+
 # write each category to a separate file
 for c in "${categories[@]}"; do
    f="$SUBSET_JSON_PREFIX${c// /_}.json"
    echo "... creating file: \"$f\""
    echo "[" >$f #overwrites file
-   grep -h -B5 -A1 "$c" $CONV_JSON_FILE >>$f
+   grep --no-group-separator -B$grep_before -A$grep_after "$c" \
+	$CONV_JSON_FILE >>$f
    # remove trailing comma if present
    sed -i '$ s/,.*$//' $f
    echo "]" >>$f
