@@ -4,6 +4,19 @@
  <title>DATA: Technology and Industry Landscape</title>
  <meta charset="utf-8">
  <link type="text/css" rel="stylesheet" href="css/nav_template.css"/>
+ <script type="text/javascript" src="js/DataTables-1.10.7/media/js/jquery.js">
+ </script>
+
+ <script type="text/javascript">
+
+$(function(){
+    $('#nav a').click(function() {
+        $('#nav .active').removeClass('active'); // remove active class
+        $(this).addClass('active'); // add active class to the clicked link
+    });
+});
+
+ </script>
 </head>
 
 <body>
