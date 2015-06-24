@@ -71,3 +71,8 @@ nav ul a {
   color: darkgreen;
   text-decoration: none;
 }
+
+nav ul a:hover {
+  background-color: lightgreen;
+  color: black;
+}
