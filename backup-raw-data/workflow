@@ -1,0 +1,20 @@
+
+Step 1: raw-data.csv
+
+   Manually created by downloading data from Google Spreadsheet
+   Spread sheet is in the Data ILT/Working folder... "Data ILT Master List of Offerings"
+
+   link: 
+   https://docs.google.com/spreadsheets/d/1dWurCmcI_31kbA8Btv3MwE4pFQpfTwGJ_VHiZKRThUI/edit#gid=222265336
+
+   Data is on the :w
+
+Step 2: raw-data.json
+
+   Semi-automatically created using the website: 
+   http://www.convertcsv.com/csv-to-json.htm
+
+Step 3: subset_<category name> 
+
+   Created using the "create_categories.sh" script
+

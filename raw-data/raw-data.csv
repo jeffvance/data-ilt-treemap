@@ -1,290 +1,303 @@
-name,website,details,size,type
-Jackrabbit,http://jackrabbit.apache.org/,http://db-engines.com/en/system/Jackrabbit,408,Content store
-ModeShape,www.jboss.org/­modeshape,http://db-engines.com/en/system/ModeShape,12,Content store
-MongoDB,www.mongodb.org,http://db-engines.com/en/system/MongoDB,27733,Document store
-CouchDB,couchdb.apache.org,http://db-engines.com/en/system/CouchDB,2717,Document store
-Couchbase,www.couchbase.com,http://db-engines.com/en/system/Couchbase,2525,Document store
-Amazon DynamoDB,aws.amazon.com/­dynamodb,http://db-engines.com/en/system/DynamoDB,1488,Document store
-MarkLogic,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,991,Document store
-RavenDB,ravendb.net,http://db-engines.com/en/system/Sybase+IQ,647,Document store
-OrientDB,http://www.orientdb.org/,http://db-engines.com/en/system/OrientDB,400,Document store
-GemFire,http://www.vmware.com/products/application-platform/vfabric-gemfire/overview.html,http://db-engines.com/en/system/GemFire,392,Document store
-Cloudant,http://db-engines.com/en/system/Cloudant,http://db-engines.com/en/system/Cloudant,384,Document store
-RethinkDB,www.rethinkdb.com,http://db-engines.com/en/system/RethinkDB,206,Document store
-Datameer,www.datameer.com,http://db-engines.com/en/system/Datameer,169,Document store
-Datomic,www.datomic.com,http://db-engines.com/en/system/Datomic,147,Document store
-FoundationDB,foundationdb.com,http://db-engines.com/en/system/FoundationDB,114,Document store
-ArangoDB,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,111,Document store
-Mnesia,www.erlang.org/­doc/­man/­mnesia.html,http://db-engines.com/en/system/Mnesia,99,Document store
-Microsoft Azure DocumentDB,azure.microsoft.com/­en-us/­services/­documentdb,http://db-engines.com/en/system/Microsoft+Azure+DocumentDB,97,Document store
-PouchDB,pouchdb.com,http://db-engines.com/en/system/PouchDB,90,Document store
-Google Cloud Datastore,developers.google.com/­datastore,http://db-engines.com/en/system/Google+Cloud+Datastore,83,Document store
-CloudKit,getcloudkit.com,http://db-engines.com/en/system/CloudKit,53,Document store
-TokuMX,www.tokutek.com/­products/­tokumx-for-mongodb,http://db-engines.com/en/system/TokuMX,48,Document store
-Clusterpoint,www.clusterpoint.com,http://db-engines.com/en/system/Clusterpoint,16,Document store
-Terrastore,code.google.com/­p/­terrastore,http://db-engines.com/en/system/Terrastore,9,Document store
-DensoDB,http://densodb.codeplex.com/,http://db-engines.com/en/system/DensoDB,1,Document store
-Djondb,http://djondb.com/,http://db-engines.com/en/system/Djondb,1,Document store
-EJDB,http://ejdb.org/,http://db-engines.com/en/system/EJDB,1,Document store
-FleetDB,https://github.com/mmcgrana/fleetdb,http://db-engines.com/en/system/FleetDB,1,Document store
-GlobalsDB,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,1,Document store
-JasDB,http://www.oberasoftware.com/jasdb/,http://db-engines.com/en/system/JasDB,1,Document store
-LokiJS,lokijs.org,http://db-engines.com/en/system/LokiJS,1,Document store
-OrigoDB,origodb.com,http://db-engines.com/en/system/OrigoDB,1,Document store
-RaptorDB,http://raptordb.codeplex.com/,http://db-engines.com/en/system/RaptorDB,1,Document store
-SenseiDB,http://senseidb.com/,http://db-engines.com/en/system/SenseiDB,1,Document store
-Sequoiadb,http://www.sequoiadb.com/,http://db-engines.com/en/system/Sequoiadb,1,Document store
-SisoDb,http://www.sisodb.com/,http://db-engines.com/en/system/SisoDb,1,Document store
-WhiteDB,whitedb.org,http://db-engines.com/en/system/WhiteDB,1,Document store
-InfluxDB,influxdb.com,http://db-engines.com/en/system/InfluxDB,154,Event Store
-Event Store,https://geteventstore.com/,http://db-engines.com/en/system/Event+Store,1,Event Store
-NEventStore,http://neventstore.org/,http://db-engines.com/en/system/NEventStore,1,Event Store
-Neo4j,neo4j.org,http://db-engines.com/en/system/Neo4j,2865,Graph DBMS
-OrientDB,http://www.orientdb.org/,http://db-engines.com/en/system/OrientDB,400,Graph DBMS
-Titan,http://thinkaurelius.github.com/titan/,http://db-engines.com/en/system/Titan,352,Graph DBMS
-ArangoDB,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,111,Graph DBMS
-Giraph,giraph.apache.org,http://db-engines.com/en/system/Giraph,79,Graph DBMS
-Sparksee,sparsity-technologies.com/­#sparksee,http://db-engines.com/en/system/Sparksee,54,Graph DBMS
-InfiniteGraph,objectivity.com,http://db-engines.com/en/system/InfiniteGraph,36,Graph DBMS
-InfoGrid,infogrid.org,http://db-engines.com/en/system/InfoGrid,25,Graph DBMS
-GraphDB,www.ontotext.com/­products/­ontotext-graphdb,http://db-engines.com/en/system/GraphDB,13,Graph DBMS
-FlockDB,github.com/­twitter/­flockdb,http://db-engines.com/en/system/FlockDB,12,Graph DBMS
-HyperGraphDB,www.hypergraphdb.org,http://db-engines.com/en/system/HyperGraphDB,12,Graph DBMS
-GlobalsDB,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,1,Graph DBMS
-GraphBase,graphbase.net,http://db-engines.com/en/system/GraphBase,1,Graph DBMS
-VelocityGraph,www.velocitygraph.com,http://db-engines.com/en/system/VelocityGraph,1,Graph DBMS
-Redis,redis.io,http://db-engines.com/en/system/Redis,9474,Key-value store
-Memcached,www.memcached.org,http://db-engines.com/en/system/Memcached,3312,Key-value store
-Amazon DynamoDB,aws.amazon.com/­dynamodb,http://db-engines.com/en/system/DynamoDB,1488,Key-value store
-Riak,basho.com/­products/­riak-overview,http://db-engines.com/en/system/Riak,1290,Key-value store
-Ehcache,,http://db-engines.com/en/system/Ehcache,793,Key-value store
-Hazelcast,,http://db-engines.com/en/system/Hazelcast,583,Key-value store
-Berkeley DB,http://www.oracle.com/technetwork/products/berkeleydb/,http://db-engines.com/en/system/Berkeley+DB,361,Key-value store
-Oracle Coherence,www.oracle.com/­technetwork/­middleware/­coherence/­overview/­index.html,http://db-engines.com/en/system/Oracle+Coherence,331,Key-value store
-Amazon SimpleDB,aws.amazon.com/­simpledb,http://db-engines.com/en/system/Amazon+SimpleDB,297,Key-value store
-Aerospike,www.aerospike.com,http://db-engines.com/en/system/Aerospike,243,Key-value store
-Oracle NoSQL,http://www.oracle.com/technetwork/products/nosqldb/,http://db-engines.com/en/system/Oracle+NoSQL,214,Key-value store
-Infinispan,www.jboss.org/­infinispan,http://db-engines.com/en/system/Infinispan,197,Key-value store
-LevelDB,code.google.com/­p/­leveldb,http://db-engines.com/en/system/LevelDB,148,Key-value store
-FoundationDB,foundationdb.com,http://db-engines.com/en/system/FoundationDB,114,Key-value store
-ArangoDB,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,111,Key-value store
-GridGain,www.gridgain.com,http://db-engines.com/en/system/GridGain,86,Key-value store
-ZODB,www.zodb.org,http://db-engines.com/en/system/ZODB,66,Key-value store
-GT.M,www.fisglobal.com/­products-technologyplatforms-gtm,http://db-engines.com/en/system/GT.M,62,Key-value store
-Tokyo Cabinet,fallabs.com/­tokyocabinet,http://db-engines.com/en/system/Tokyo+Cabinet,56,Key-value store
-NCache,www.alachisoft.com/­ncache,http://db-engines.com/en/system/NCache,44,Key-value store
-WebSphere eXtreme Scale,www.ibm.com/­software/­products/­en/­websphere-extreme-scale,http://db-engines.com/en/system/WebSphere+eXtreme+Scale,40,Key-value store
-WiredTiger,wiredtiger.com,http://db-engines.com/en/system/WiredTiger,38,Key-value store
-Tokyo Tyrant,fallabs.com/­tokyotyrant,http://db-engines.com/en/system/Tokyo+Tyrant,30,Key-value store
-XAP,docs.gigaspaces.com,http://db-engines.com/en/system/XAP,28,Key-value store
-Project Voldemort,www.project-voldemort.com,http://db-engines.com/en/system/Project+Voldemort,27,Key-value store
-Hibari,hibari.github.com/­hibari-doc,http://db-engines.com/en/system/Hibari,23,Key-value store
-RocksDB,rocksdb.org,http://db-engines.com/en/system/RocksDB,22,Key-value store
-MapDB,www.mapdb.org,http://db-engines.com/en/system/MapDB,17,Key-value store
-Scalaris,code.google.com/­p/­scalaris,http://db-engines.com/en/system/Scalaris,14,Key-value store
-STSdb,stsdb.com,http://db-engines.com/en/system/STSdb,14,Key-value store
-Kyoto Cabinet,fallabs.com/­kyotocabinet,http://db-engines.com/en/system/Kyoto+Cabinet,10,Key-value store
-Elliptics,reverbrain.com/­elliptics,http://db-engines.com/en/system/Elliptics,9,Key-value store
-HyperDex,hyperdex.org,http://db-engines.com/en/system/HyperDex,7,Key-value store
-Hamsterdb,hamsterdb.com,http://db-engines.com/en/system/Hamsterdb,4,Key-value store
-ScaleOut StateServer,http://www.scaleoutsoftware.com/products/scaleout-stateserver/,http://db-engines.com/en/system/ScaleOut+StateServer,3,Key-value store
-Bangdb,http://www.iqlect.com/product.php,http://db-engines.com/en/system/Bangdb,1,Key-value store
-BergDB,bergdb.com,http://db-engines.com/en/system/BergDB,1,Key-value store
-CodernityDB,http://labs.codernity.com/codernitydb/,http://db-engines.com/en/system/CodernityDB,1,Key-value store
-GlobalsDB,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,1,Key-value store
-HyperLevelDB,hyperdex.org/­performance/­leveldb,http://db-engines.com/en/system/HyperLevelDB,1,Key-value store
-Kyoto Tycoon,http://fallabs.com/kyototycoon/,http://db-engines.com/en/system/Kyoto+Tycoon,1,Key-value store
-LedisDB,ledisdb.com,http://db-engines.com/en/system/LedisDB,1,Key-value store
-LightCloud,http://opensource.plurk.com/LightCloud/,http://db-engines.com/en/system/LightCloud,1,Key-value store
-Nanolat,http://nanolat.com/index/0-2,http://db-engines.com/en/system/Nanolat,1,Key-value store
-Quasardb,www.quasardb.net,http://db-engines.com/en/system/Quasardb,1,Key-value store
-Resin Cache,http://www.caucho.com/,http://db-engines.com/en/system/Resin+Cache,1,Key-value store
-Tarantool,http://tarantool.org/,http://db-engines.com/en/system/Tarantool,1,Key-value store
-TomP2P,http://tomp2p.net/,http://db-engines.com/en/system/TomP2P,1,Key-value store
-Amazon DynamoDB,aws.amazon.com/­dynamodb,http://db-engines.com/en/system/DynamoDB,1488,Multi-model 
-MarkLogic,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,991,Multi-model 
-OrientDB,http://www.orientdb.org/,http://db-engines.com/en/system/OrientDB,400,Multi-model 
-Virtuoso,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,307,Multi-model 
-FoundationDB,foundationdb.com,http://db-engines.com/en/system/FoundationDB,114,Multi-model 
-ArangoDB,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,111,Multi-model 
-Sqrrl,sqrrl.com,http://db-engines.com/en/system/Sqrrl,31,Multi-model 
-Crate.IO,crate.io,http://db-engines.com/en/system/Crate.IO,18,Multi-model 
-GraphDB,www.ontotext.com/­products/­ontotext-graphdb,http://db-engines.com/en/system/GraphDB,13,Multi-model 
-Amisa Server,http://www.amisalabs.com/,http://db-engines.com/en/system/Amisa+Server,1,Multi-model 
-Blazegraph,blazegraph.com,http://db-engines.com/en/system/Blazegraph,1,Multi-model 
-CortexDB,www.cortex-ag.com/­cortexdoku/­cms.php,http://db-engines.com/en/system/CortexDB,1,Multi-model 
-GlobalsDB,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,1,Multi-model 
-OrigoDB,origodb.com,http://db-engines.com/en/system/OrigoDB,1,Multi-model 
-Adabas,http://www.softwareag.com/de/products/adabas_2010/default.asp,http://db-engines.com/en/system/Adabas,468,Multivalue DBMS
-UniData/UniVerse,http://u2.rocketsoftware.com/,http://db-engines.com/en/system/UniData%2CUniVerse,308,Multivalue DBMS
-D3,www.tigerlogic.com/­tigerlogic/­pick/­database/­index.jsp,http://db-engines.com/en/system/D3,124,Multivalue DBMS
-jBASE,www.jbase.com,http://db-engines.com/en/system/jBASE,99,Multivalue DBMS
-Model 204,www.rocketsoftware.com/­m204,http://db-engines.com/en/system/Model+204,78,Multivalue DBMS
-Northgate Reality,www.northgate-reality.com,http://db-engines.com/en/system/Northgate+Reality,45,Multivalue DBMS
-SciDB,scidb.org,http://db-engines.com/en/system/SciDB,37,Multivalue DBMS
-OpenInsight,www.revelation.com/­index.php/­products/­openinsight,http://db-engines.com/en/system/OpenInsight,29,Multivalue DBMS
-Rasdaman,www.rasdaman.org,http://db-engines.com/en/system/Rasdaman,9,Multivalue DBMS
-OpenQM,www.openqm.com,http://db-engines.com/en/system/OpenQM,5,Multivalue DBMS
-MarkLogic,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,991,Native XML DBMS
-Virtuoso,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,307,Native XML DBMS
-Sedna,www.sedna.org,http://db-engines.com/en/system/Sedna,103,Native XML DBMS
-BaseX,basex.org,http://db-engines.com/en/system/BaseX,87,Native XML DBMS
-Tamino,www.softwareag.com/­corporate/­products/­wm/­tamino/­default.asp,http://db-engines.com/en/system/Tamino,44,Native XML DBMS
-eXist-db,exist-db.org,http://db-engines.com/en/system/eXist-db,31,Native XML DBMS
-IMS,http://www.ibm.com/software/data/ims/ims/,http://db-engines.com/en/system/IMS,152,Navigational DBMS
-IDMS,www.ca.com/­us/­products/­detail/­CA-IDMS.aspx,http://db-engines.com/en/system/IDMS,138,Navigational DBMS
-Caché,http://www.intersystems.com/cache/index.html,http://db-engines.com/en/system/Cach%C3%A9,239,Object oriented DBMS
-Db4o,http://www.db4o.com/,http://db-engines.com/en/system/Db4o,209,Object oriented DBMS
-Versant Object Database,http://www.versant.com/products/versant-object-database,http://db-engines.com/en/system/Versant+Object+Database,159,Object oriented DBMS
-ObjectStore,www.objectstore.com,http://db-engines.com/en/system/ObjectStore,111,Object oriented DBMS
-Objectivity/DB,www.objectivity.com/­products/­objectivitydb,http://db-engines.com/en/system/Objectivity%2FDB,68,Object oriented DBMS
-ObjectDB,www.objectdb.com,http://db-engines.com/en/system/ObjectDB,37,Object oriented DBMS
-Perst,www.mcobject.com/­perst,http://db-engines.com/en/system/Perst,37,Object oriented DBMS
-GemStone/S,gemtalksystems.com,http://db-engines.com/en/system/GemStone/S,34,Object oriented DBMS
-Eloquera,www.eloquera.com,http://db-engines.com/en/system/Eloquera,5,Object oriented DBMS
-Jade,http://www.jade.co.nz/jade/,http://db-engines.com/en/system/Jade,4,Object oriented DBMS
-Siaqodb,siaqodb.com,http://db-engines.com/en/system/Siaqodb,4,Object oriented DBMS
-Versant FastObjects,http://www.actian.com/products/operational-databases/versant/,http://db-engines.com/en/system/Versant+FastObjects,3,Object oriented DBMS
-Starcounter,www.starcounter.com,http://db-engines.com/en/system/Starcounter,2,Object oriented DBMS
-OrigoDB,origodb.com,http://db-engines.com/en/system/OrigoDB,1,Object oriented DBMS
-VelocityDB,http://www.velocitydb.com/,http://db-engines.com/en/system/VelocityDB,1,Object oriented DBMS
-WakandaDB,www.wakanda.org,http://db-engines.com/en/system/WakandaDB,1,Object oriented DBMS
-MarkLogic,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,991,RDF store
-Virtuoso,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,307,RDF store
-Jena,http://jena.apache.org/,http://db-engines.com/en/system/Jena,150,RDF store
-Sesame,http://www.openrdf.org/,http://db-engines.com/en/system/Sesame,146,RDF store
-AllegroGraph,www.franz.com/­agraph/­allegrograph,http://db-engines.com/en/system/AllegroGraph,79,RDF store
-Algebraix,www.algebraixdata.com,http://db-engines.com/en/system/Algebraix,49,RDF store
-Stardog,stardog.com,http://db-engines.com/en/system/Stardog,26,RDF store
-GraphDB,www.ontotext.com/­products/­ontotext-graphdb,http://db-engines.com/en/system/GraphDB,13,RDF store
-Redland,librdf.org,http://db-engines.com/en/system/Redland,13,RDF store
-4store,4store.org,http://db-engines.com/en/system/4store,11,RDF store
-RedStore,www.aelius.com/­njh/­redstore,http://db-engines.com/en/system/RedStore,10,RDF store
-Strabon,http://www.strabon.di.uoa.gr/,http://db-engines.com/en/system/Strabon,9,RDF store
-BrightstarDB,http://www.brightstardb.com/,http://db-engines.com/en/system/BrightstarDB,1,RDF store
-CubicWeb,http://www.cubicweb.org/,http://db-engines.com/en/system/CubicWeb,1,RDF store
-Dydra,http://dydra.com/,http://db-engines.com/en/system/Dydra,1,RDF store
-Mulgara,http://www.mulgara.org/,http://db-engines.com/en/system/Mulgara,1,RDF store
-SparkleDB,http://www.sparkledb.net/,http://db-engines.com/en/system/SparkleDB,1,RDF store
-Oracle,www.oracle.com/­us/­products/­database,http://db-engines.com/en/system/Oracle,144211,Relational DBMS
-MySQL,www.mysql.com,http://db-engines.com/en/system/Oracle,129427,Relational DBMS
-Microsoft SQL Server,www.microsoft.com/­sqlserver,http://db-engines.com/en/system/Microsoft+SQL+Server,113104,Relational DBMS
-PostgreSQL,www.postgresql.org,http://db-engines.com/en/system/PostgreSQL,27353,Relational DBMS
-DB2,ibm.com/­software/­data/­db2,http://db-engines.com/en/system/DB2,20105,Relational DBMS
-Microsoft Access,office.microsoft.com/­en-us/­access,http://db-engines.com/en/system/Microsoft+Access,14559,Relational DBMS
-SQLite,sqlite.org,http://db-engines.com/en/system/SQLite,10517,Relational DBMS
-SAP Adaptive Server,www.sap.com/­pc/­tech/­database/­software/­adaptive-server-enterprise/­index.html,http://db-engines.com/en/system/SAP+Adaptive+Server,8550,Relational DBMS
-Teradata,www.teradata.com,http://db-engines.com/en/system/Teradata,7014,Relational DBMS
-FileMaker,www.filemaker.com,http://db-engines.com/en/system/Teradata,5291,Relational DBMS
-Hive,hive.apache.org,http://db-engines.com/en/system/Hive,4457,Relational DBMS
-Informix,www.ibm.com/­software/­data/­informix,http://db-engines.com/en/system/Informix,3675,Relational DBMS
-SAP HANA,www.saphana.com,http://db-engines.com/en/system/SAP+HANA,3279,Relational DBMS
-MariaDB,mariadb.org,http://db-engines.com/en/system/MariaDB,2361,Relational DBMS
-Firebird,www.firebirdsql.org,http://db-engines.com/en/system/Firebird,2183,Relational DBMS
-Netezza,www.netezza.com,http://db-engines.com/en/system/Netezza,1813,Relational DBMS
-Microsoft Azure SQL Database,azure.microsoft.com/­en-us/­services/­sql-database,http://db-engines.com/en/system/Microsoft+Azure+SQL+Database,1574,Relational DBMS
-Vertica,www.vertica.com,http://db-engines.com/en/system/Vertica,1502,Relational DBMS
-dBASE,www.dbase.com,http://db-engines.com/en/system/dBASE,1044,Relational DBMS
-Ingres,www.actian.com/­products/­operational-databases/­ingres,http://db-engines.com/en/system/Ingres,1025,Relational DBMS
-Greenplum,www.gopivotal.com/­big-data/­pivotal-greenplum-database,http://db-engines.com/en/system/Greenplum,859,Relational DBMS
-SAP SQL Anywhere,www.sap.com/­pc/­tech/­database/­software/­sybase-sql-anywhere,http://db-engines.com/en/system/SAP+SQL+Anywhere,540,Relational DBMS
-Amazon Redshift,aws.amazon.com/­redshift,http://db-engines.com/en/system/Amazon+Redshift,538,Relational DBMS
-Interbase,,http://db-engines.com/en/system/Interbase,531,Relational DBMS
-SAP IQ,www.sap.com/­pc/­tech/­database/­software/­sybase-iq-big-data-management,http://db-engines.com/en/system/SAP+IQ,523,Relational DBMS
-HyperSQL,,http://db-engines.com/en/system/HyperSQL,461,Relational DBMS
-Impala,http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html,http://db-engines.com/en/system/Impala,461,Relational DBMS
-mSQL,http://www.hughes.com.au/products/msql/,http://db-engines.com/en/system/mSQL,444,Relational DBMS
-Derby,http://db.apache.org/derby/,http://db-engines.com/en/system/Derby,405,Relational DBMS
-H2,http://www.h2database.com/,http://db-engines.com/en/system/H2,394,Relational DBMS
-Google BigQuery,http://developers.google.com/bigquery/,http://db-engines.com/en/system/Google+BigQuery,390,Relational DBMS
-MaxDB,http://maxdb.sap.com/,http://db-engines.com/en/system/MaxDB,336,Relational DBMS
-Virtuoso,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,307,Relational DBMS
-SAP Advantage Database Server,www.sap.com/­pc/­tech/­database/­software/­advantage-database-server,http://db-engines.com/en/system/SAP+Advantage+Database+Server,271,Relational DBMS
-TimesTen,http://www.oracle.com/us/products/database/timesten/index.html,http://db-engines.com/en/system/TimesTen,270,Relational DBMS
-OpenEdge,http://www.progress.com/en/openedge/developer-productivity/database/index.html,http://db-engines.com/en/system/OpenEdge,218,Relational DBMS
-Teradata Aster,http://www.asterdata.com/,http://db-engines.com/en/system/Teradata+Aster,183,Relational DBMS
-EnterpriseDB,http://www.enterprisedb.com/,http://db-engines.com/en/system/EnterpriseDB,178,Relational DBMS
-Drizzle,http://www.drizzle.org/,http://db-engines.com/en/system/Drizzle,155,Relational DBMS
-VoltDB,voltdb.com,http://db-engines.com/en/system/VoltDB,145,Relational DBMS
-Percona Server,www.percona.com/­software/­percona-server,http://db-engines.com/en/system/Percona+Server,142,Relational DBMS
-ParAccel,www.paraccel.com,http://db-engines.com/en/system/ParAccel,133,Relational DBMS
-Infobright,www.infobright.com,http://db-engines.com/en/system/Infobright,129,Relational DBMS
-SQLBase,www.guptatechnologies.com/­Products/­Data_Management/­SQLBase,http://db-engines.com/en/system/SQLBase,125,Relational DBMS
-Oracle Rdb,http://www.oracle.com/technetwork/database/database-technologies/rdb/overview/index.html,http://db-engines.com/en/system/Oracle+Rdb,117,Relational DBMS
-FoundationDB,foundationdb.com,http://db-engines.com/en/system/FoundationDB,114,Relational DBMS
-MemSQL,www.memsql.com,http://db-engines.com/en/system/MemSQL,106,Relational DBMS
-MonetDB,www.monetdb.org,http://db-engines.com/en/system/MonetDB,101,Relational DBMS
-DataEase,www.dataease.com,http://db-engines.com/en/system/DataEase,97,Relational DBMS
-Empress,www.empress.com,http://db-engines.com/en/system/Empress,97,Relational DBMS
-NuoDB,www.nuodb.com,http://db-engines.com/en/system/NuoDB,97,Relational DBMS
-Red Brick,www-03.ibm.com/­software/­products/­us/­en/­redbrick,http://db-engines.com/en/system/Red+Brick,95,Relational DBMS
-Amazon Aurora,aws.amazon.com/­rds/­aurora,http://db-engines.com/en/system/Amazon+Aurora,89,Relational DBMS
-Kdb+,kx.com/­products.php,http://db-engines.com/en/system/Kdb%2B,88,Relational DBMS
-Apache Drill,drill.apache.org,http://db-engines.com/en/system/Apache+Drill,85,Relational DBMS
-Altibase,altibase.com,http://db-engines.com/en/system/Altibase,84,Relational DBMS
-NonStop SQL,h17007.www1.hp.com/­us/­en/­enterprise/­servers/­integrity/­nonstop/­nonstop-sql.aspx,http://db-engines.com/en/system/NonStop+SQL,82,Relational DBMS
-R:BASE,www.rbase.com,http://db-engines.com/en/system/R%3ABASE,82,Relational DBMS
-Datacom/DB,www.ca.com/­us/­opscenter/­ca-datacom.aspx,http://db-engines.com/en/system/Datacom%2FDB,76,Relational DBMS
-solidDB,www.ibm.com/­software/­data/­soliddb,http://db-engines.com/en/system/solidDB,72,Relational DBMS
-Clustrix,www.clustrix.com,http://db-engines.com/en/system/Clustrix,70,Relational DBMS
-Vectorwise,www.actian.com/­products/­vectorwise,http://db-engines.com/en/system/Vectorwise,67,Relational DBMS
-1010data,www.1010data.com,http://db-engines.com/en/system/1010data,62,Relational DBMS
-TokuDB,www.tokutek.com/­products/­tokudb-for-mysql,http://db-engines.com/en/system/TokuDB,62,Relational DBMS
-DBISAM,www.elevatesoft.com/­products?category=dbisam,http://db-engines.com/en/system/DBISAM,59,Relational DBMS
-Pervasive PSQL,www.pervasivedb.com,http://db-engines.com/en/system/Pervasive+PSQL,57,Relational DBMS
-InfiniDB,infinidb.org,http://db-engines.com/en/system/InfiniDB,51,Relational DBMS
-Kognitio,www.kognitio.com,http://db-engines.com/en/system/Kognitio,51,Relational DBMS
-FrontBase,www.frontbase.com,http://db-engines.com/en/system/FrontBase,49,Relational DBMS
-OpenBase,www.openbase.com,http://db-engines.com/en/system/OpenBase,46,Relational DBMS
-Hadapt,hadapt.com,http://db-engines.com/en/system/Hadapt,45,Relational DBMS
-NexusDB,www.nexusdb.com,http://db-engines.com/en/system/NexusDB,45,Relational DBMS
-VistaDB,voltdb.com,http://db-engines.com/en/system/VoltDB,45,Relational DBMS
-EXASolution,www.exasol.com/­en/­products/­exasolution,http://db-engines.com/en/system/EXASolution,41,Relational DBMS
-Rainstor,rainstor.com/­products/­rainstor-database,http://db-engines.com/en/system/Rainstor,37,Relational DBMS
-Cubrid,,http://db-engines.com/en/system/Cubrid,34,Relational DBMS
-ITTIA,www.ittia.com,http://db-engines.com/en/system/ITTIA,31,Relational DBMS
-eXtremeDB,www.mcobject.com/­extremedbfamily.shtml,http://db-engines.com/en/system/eXtremeDB,30,Relational DBMS
-ScimoreDB,www.scimore.com,http://db-engines.com/en/system/ScimoreDB,28,Relational DBMS
-Splice Machine,www.splicemachine.com,http://db-engines.com/en/system/Splice+Machine,23,Relational DBMS
-Akiban,www.akiban.com,http://db-engines.com/en/system/Akiban,22,Relational DBMS
-LucidDB,luciddb.sourceforge.net,http://db-engines.com/en/system/LucidDB,21,Relational DBMS
-XtremeData,www.xtremedata.com,http://db-engines.com/en/system/XtremeData,19,Relational DBMS
-Crate.IO,crate.io,http://db-engines.com/en/system/Crate.IO,18,Relational DBMS
-Mimer SQL,http://mimer.com/,http://db-engines.com/en/system/Mimer+SQL,17,Relational DBMS
-WebScaleSQL,webscalesql.org,http://db-engines.com/en/system/WebScaleSQL,16,Relational DBMS
-Dataupia,www.dataupia.com,http://db-engines.com/en/system/Dataupia,14,Relational DBMS
-ScaleBase,www.scalebase.com,http://db-engines.com/en/system/ScaleBase,14,Relational DBMS
-GenieDB,www.geniedb.com,http://db-engines.com/en/system/GenieDB,9,Relational DBMS
-ScaleDB,www.scaledb.com,http://db-engines.com/en/system/ScaleDB,9,Relational DBMS
-SQL.JS,github.com/­kripken/­sql.js,http://db-engines.com/en/system/SQL.JS,9,Relational DBMS
-Tajo,http://tajo.apache.org/,http://db-engines.com/en/system/Tajo,8,Relational DBMS
-Transbase,www.transaction.de/­products/­transbase.html?L=1,http://db-engines.com/en/system/Transbase,8,Relational DBMS
-TransLattice,www.translattice.com,http://db-engines.com/en/system/TransLattice,8,Relational DBMS
-SmallSQL,www.smallsql.de,http://db-engines.com/en/system/SmallSQL,4,Relational DBMS
-c-treeACE,http://www.faircom.com/ace/products_t.php,http://db-engines.com/en/system/c-treeACE,3,Relational DBMS
-ElevateDB,www.elevatesoft.com/­products?category=edb,http://db-engines.com/en/system/ElevateDB,3,Relational DBMS
-JethroData,http://www.jethrodata.com/,http://db-engines.com/en/system/JethroData,2,Relational DBMS
-JustOneDB,http://www.justonedb.com/,http://db-engines.com/en/system/JustOneDB,1,Relational DBMS
-Postgres-XL,http://www.postgres-xl.org/,http://db-engines.com/en/system/Postgres-XL,1,Relational DBMS
-Valentina Server,www.valentina-db.net,http://db-engines.com/en/system/Valentina+Server,1,Relational DBMS
-Solr,lucene.apache.org/­solr,http://db-engines.com/en/system/Solr,8294,Search engine
-Elasticsearch,www.elasticsearch.org,http://db-engines.com/en/system/Elasticsearch,6484,Search engine
-Splunk,www.splunk.com,http://db-engines.com/en/system/Splunk,4073,Search engine
-MarkLogic,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,991,Search engine
-Sphinx,sphinxsearch.com,http://db-engines.com/en/system/Sphinx,981,Search engine
-Endeca,www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html,http://db-engines.com/en/system/Endeca,854,Search engine
-Google Search Appliance,www.google.com/­enterprise/­search/­campaigns/­gsa7.html,http://db-engines.com/en/system/Google+Search+Appliance,371,Search engine
-Amazon CloudSearch,aws.amazon.com/­cloudsearch,http://db-engines.com/en/system/Amazon+CloudSearch,174,Search Engine
-Microsoft Azure Search,azure.microsoft.com/­en-us/­services/­search,http://db-engines.com/en/system/Microsoft+Azure+Search,75,Search engine
-Xapian,xapian.org,http://db-engines.com/en/system/Xapian,56,Search engine
-Indica,indica.nl,http://db-engines.com/en/system/Indica,31,Search engine
-Compass,www.compass-project.org,http://db-engines.com/en/system/Compass,22,Search engine
-Crate.IO,crate.io,http://db-engines.com/en/system/Crate.IO,18,Search engine
-SearchBlox,www.searchblox.com,http://db-engines.com/en/system/SearchBlox,9,Search engine
-Srch²,srch2.com,http://db-engines.com/en/system/Srch²,2,Search engine
-DBSight,www.dbsight.net,http://db-engines.com/en/system/DBSight,1,Search engine
-Exorbyte,http://www.exorbyte.com/,http://db-engines.com/en/system/Exorbyte,1,Search engine
-Cassandra,cassandra.apache.org,http://db-engines.com/en/system/Cassandra ,10656,Wide column store
-HBase,hbase.apache.org,http://db-engines.com/en/system/HBase,6171,Wide column store
-Accumulo,http://db-engines.com/en/system/Accumulo,http://db-engines.com/en/system/Accumulo,308,Wide column store
-Hypertable,hypertable.org,http://db-engines.com/en/system/Hypertable,63,Wide column store
+Name,DBaaS,License,Web-site,Details,Type,DB-engines-Score,size
+Oracle,no,Commercial,www.oracle.com/­us/­products/­database,http://db-engines.com/en/system/Oracle,Relational DBMS,1442.1,144211
+MySQL,no,Open Source,www.mysql.com,http://db-engines.com/en/system/Oracle,Relational DBMS,1294.26,129427
+Microsoft SQL Server,no,Commercial,www.microsoft.com/­sqlserver,http://db-engines.com/en/system/Microsoft+SQL+Server,Relational DBMS,1131.03,113104
+MongoDB,no,Open Source,www.mongodb.org,http://db-engines.com/en/system/MongoDB,Document store,277.32,27733
+PostgreSQL,no,Open Source,www.postgresql.org,http://db-engines.com/en/system/PostgreSQL,Relational DBMS,273.52,27353
+DB2,no,Commercial,ibm.com/­software/­data/­db2,http://db-engines.com/en/system/DB2,Relational DBMS,201.04,20105
+Microsoft Access,no,Commercial,office.microsoft.com/­en-us/­access,http://db-engines.com/en/system/Microsoft+Access,Relational DBMS,145.58,14559
+Cassandra,no,Open Source,cassandra.apache.org,http://db-engines.com/en/system/Cassandra ,Wide column store,106.55,10656
+SQLite,no,Open Source,sqlite.org,http://db-engines.com/en/system/SQLite,Relational DBMS,105.16,10517
+Redis,no,Open Source,redis.io,http://db-engines.com/en/system/Redis,Key-value store,94.73,9474
+SAP Adaptive Server,no,Commercial,www.sap.com/­pc/­tech/­database/­software/­adaptive-server-enterprise/­index.html,http://db-engines.com/en/system/SAP+Adaptive+Server,Relational DBMS,85.49,8550
+Solr,no,Open Source,lucene.apache.org/­solr,http://db-engines.com/en/system/Solr,Search engine,82.93,8294
+Teradata,no,Commercial,www.teradata.com,http://db-engines.com/en/system/Teradata,Relational DBMS,70.13,7014
+Elasticsearch,no,Open Source,www.elasticsearch.org,http://db-engines.com/en/system/Elasticsearch,Search engine,64.83,6484
+HBase,no,Open Source,hbase.apache.org,http://db-engines.com/en/system/HBase,Wide column store,61.7,6171
+FileMaker,no,Commercial,www.filemaker.com,http://db-engines.com/en/system/Teradata,Relational DBMS,52.9,5291
+Hive,no,Open Source,hive.apache.org,http://db-engines.com/en/system/Hive,Relational DBMS,44.56,4457
+Splunk,no,Commercial,www.splunk.com,http://db-engines.com/en/system/Splunk,Search engine,40.72,4073
+Informix,no,Commercial,www.ibm.com/­software/­data/­informix,http://db-engines.com/en/system/Informix,Relational DBMS,36.74,3675
+Memcached,no,Open Source,www.memcached.org,http://db-engines.com/en/system/Memcached,Key-value store,33.11,3312
+SAP HANA,no,Commercial,www.saphana.com,http://db-engines.com/en/system/SAP+HANA,Relational DBMS,32.78,3279
+Neo4j,no,Open Source,neo4j.org,http://db-engines.com/en/system/Neo4j,Graph DBMS,28.64,2865
+CouchDB,no,Open Source,couchdb.apache.org,http://db-engines.com/en/system/CouchDB,Document store,27.16,2717
+Couchbase,no,Open Source,www.couchbase.com,http://db-engines.com/en/system/Couchbase,Document store,25.24,2525
+MariaDB,no,Open Source,mariadb.org,http://db-engines.com/en/system/MariaDB,Relational DBMS,23.6,2361
+Firebird,no,Open Source,www.firebirdsql.org,http://db-engines.com/en/system/Firebird,Relational DBMS,21.82,2183
+Netezza,no,Commercial,www.netezza.com,http://db-engines.com/en/system/Netezza,Relational DBMS,18.12,1813
+Microsoft Azure SQL Database,yes,Commercial,azure.microsoft.com/­en-us/­services/­sql-database,http://db-engines.com/en/system/Microsoft+Azure+SQL+Database,Relational DBMS,15.73,1574
+Vertica,no,Commercial,www.vertica.com,http://db-engines.com/en/system/Vertica,Relational DBMS,15.01,1502
+Amazon DynamoDB,yes,Commercial,aws.amazon.com/­dynamodb,http://db-engines.com/en/system/DynamoDB,Multi-model ,14.87,1488
+Amazon DynamoDB,yes,Commercial,aws.amazon.com/­dynamodb,http://db-engines.com/en/system/DynamoDB,Document store,14.87,1488
+Amazon DynamoDB,yes,Commercial,aws.amazon.com/­dynamodb,http://db-engines.com/en/system/DynamoDB,Key-value store,14.87,1488
+Riak,,Open Source,basho.com/­products/­riak-overview,http://db-engines.com/en/system/Riak,Key-value store,12.89,1290
+dBASE,no,Commercial,www.dbase.com,http://db-engines.com/en/system/dBASE,Relational DBMS,10.43,1044
+Ingres,no,Commercial,www.actian.com/­products/­operational-databases/­ingres,http://db-engines.com/en/system/Ingres,Relational DBMS,10.24,1025
+MarkLogic,no,Commercial,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,Multi-model ,9.9,991
+MarkLogic,no,Commercial,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,Document store,9.9,991
+MarkLogic,no,Commercial,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,Native XML DBMS,9.9,991
+MarkLogic,no,Commercial,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,RDF store,9.9,991
+MarkLogic,no,Commercial,www.marklogic.com,http://db-engines.com/en/system/MarkLogic,Search engine,9.9,991
+Sphinx,no,Open Source,sphinxsearch.com,http://db-engines.com/en/system/Sphinx,Search engine,9.8,981
+Greenplum,no,Commercial,www.gopivotal.com/­big-data/­pivotal-greenplum-database,http://db-engines.com/en/system/Greenplum,Relational DBMS,8.58,859
+Endeca,no,Commercial,www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html,http://db-engines.com/en/system/Endeca,Search engine,8.53,854
+Ehcache,no,Open Source,,http://db-engines.com/en/system/Ehcache,Key-value store,7.92,793
+RavenDB,no,Open Source,ravendb.net,http://db-engines.com/en/system/Sybase+IQ,Document store,6.46,647
+Hazelcast,no,Open Source,,http://db-engines.com/en/system/Hazelcast,Key-value store,5.82,583
+SAP SQL Anywhere,no,Commercial,www.sap.com/­pc/­tech/­database/­software/­sybase-sql-anywhere,http://db-engines.com/en/system/SAP+SQL+Anywhere,Relational DBMS,5.39,540
+Amazon Redshift,yes,Commercial,aws.amazon.com/­redshift,http://db-engines.com/en/system/Amazon+Redshift,Relational DBMS,5.37,538
+Interbase,no,Commercial,,http://db-engines.com/en/system/Interbase,Relational DBMS,5.3,531
+SAP IQ,no,Commercial,www.sap.com/­pc/­tech/­database/­software/­sybase-iq-big-data-management,http://db-engines.com/en/system/SAP+IQ,Relational DBMS,5.22,523
+Adabas,no,Commercial,http://www.softwareag.com/de/products/adabas_2010/default.asp,http://db-engines.com/en/system/Adabas,Multivalue DBMS,4.67,468
+HyperSQL,no,Open Source,,http://db-engines.com/en/system/HyperSQL,Relational DBMS,4.6,461
+Impala,no,Open Source,http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html,http://db-engines.com/en/system/Impala,Relational DBMS,4.6,461
+mSQL,no,Commercial,http://www.hughes.com.au/products/msql/,http://db-engines.com/en/system/mSQL,Relational DBMS,4.43,444
+Jackrabbit,no,Open Source,http://jackrabbit.apache.org/,http://db-engines.com/en/system/Jackrabbit,Content store,4.07,408
+Derby,no,Open Source,http://db.apache.org/derby/,http://db-engines.com/en/system/Derby,Relational DBMS,4.04,405
+OrientDB,no,Open Source,http://www.orientdb.org/,http://db-engines.com/en/system/OrientDB,Multi-model ,3.99,400
+OrientDB,no,Open Source,http://www.orientdb.org/,http://db-engines.com/en/system/OrientDB,Document store,3.99,400
+OrientDB,no,Open Source,http://www.orientdb.org/,http://db-engines.com/en/system/OrientDB,Graph DBMS,3.99,400
+H2,no,Open Source,http://www.h2database.com/,http://db-engines.com/en/system/H2,Relational DBMS,3.93,394
+GemFire,no,Commercial,http://www.vmware.com/products/application-platform/vfabric-gemfire/overview.html,http://db-engines.com/en/system/GemFire,Document store,3.91,392
+Google BigQuery,yes,Commercial,http://developers.google.com/bigquery/,http://db-engines.com/en/system/Google+BigQuery,Relational DBMS,3.89,390
+Cloudant,yes,Commercial,http://db-engines.com/en/system/Cloudant,http://db-engines.com/en/system/Cloudant,Document store,3.83,384
+Google Search Appliance,no,Commercial,www.google.com/­enterprise/­search/­campaigns/­gsa7.html,http://db-engines.com/en/system/Google+Search+Appliance,Search engine,3.7,371
+Berkeley DB,no,Open Source,http://www.oracle.com/technetwork/products/berkeleydb/,http://db-engines.com/en/system/Berkeley+DB,Key-value store,3.6,361
+Titan,no,Open Source,http://thinkaurelius.github.com/titan/,http://db-engines.com/en/system/Titan,Graph DBMS,3.51,352
+MaxDB,no,Commercial,http://maxdb.sap.com/,http://db-engines.com/en/system/MaxDB,Relational DBMS,3.35,336
+Oracle Coherence,no,Commercial,www.oracle.com/­technetwork/­middleware/­coherence/­overview/­index.html,http://db-engines.com/en/system/Oracle+Coherence,Key-value store,3.3,331
+Accumulo,no,Open Source,http://db-engines.com/en/system/Accumulo,http://db-engines.com/en/system/Accumulo,Wide column store,3.07,308
+UniData/UniVerse,no,Commercial,http://u2.rocketsoftware.com/,http://db-engines.com/en/system/UniData%2CUniVerse,Multivalue DBMS,3.07,308
+Virtuoso,no,Open Source,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,Multi-model ,3.06,307
+Virtuoso,no,Open Source,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,Native XML DBMS,3.06,307
+Virtuoso,no,Open Source,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,Relational DBMS,3.06,307
+Virtuoso,no,Open Source,http://virtuoso.openlinksw.com/,http://db-engines.com/en/system/Virtuoso,RDF store,3.06,307
+Amazon SimpleDB,yes,Commercial,aws.amazon.com/­simpledb,http://db-engines.com/en/system/Amazon+SimpleDB,Key-value store,2.96,297
+SAP Advantage Database Server,no,Commercial,www.sap.com/­pc/­tech/­database/­software/­advantage-database-server,http://db-engines.com/en/system/SAP+Advantage+Database+Server,Relational DBMS,2.7,271
+TimesTen,no,Commercial,http://www.oracle.com/us/products/database/timesten/index.html,http://db-engines.com/en/system/TimesTen,Relational DBMS,2.69,270
+Aerospike,no,Open Source,www.aerospike.com,http://db-engines.com/en/system/Aerospike,Key-value store,2.42,243
+Caché,no,Commercial,http://www.intersystems.com/cache/index.html,http://db-engines.com/en/system/Cach%C3%A9,Object oriented DBMS,2.38,239
+OpenEdge,no,Commercial,http://www.progress.com/en/openedge/developer-productivity/database/index.html,http://db-engines.com/en/system/OpenEdge,Relational DBMS,2.17,218
+Oracle NoSQL,no,Open Source,http://www.oracle.com/technetwork/products/nosqldb/,http://db-engines.com/en/system/Oracle+NoSQL,Key-value store,2.13,214
+Db4o,no,Commercial,http://www.db4o.com/,http://db-engines.com/en/system/Db4o,Object oriented DBMS,2.08,209
+RethinkDB,no,Open Source,www.rethinkdb.com,http://db-engines.com/en/system/RethinkDB,Document store,2.05,206
+Infinispan,,Open Source,www.jboss.org/­infinispan,http://db-engines.com/en/system/Infinispan,Key-value store,1.96,197
+Teradata Aster,no,Commercial,http://www.asterdata.com/,http://db-engines.com/en/system/Teradata+Aster,Relational DBMS,1.82,183
+EnterpriseDB,no,Commercial,http://www.enterprisedb.com/,http://db-engines.com/en/system/EnterpriseDB,Relational DBMS,1.77,178
+Amazon CloudSearch,yes,Commercial,aws.amazon.com/­cloudsearch,http://db-engines.com/en/system/Amazon+CloudSearch,Search Engine,1.73,174
+Datameer,no,Commercial,www.datameer.com,http://db-engines.com/en/system/Datameer,Document store,1.68,169
+Versant Object Database,no,Commercial,http://www.versant.com/products/versant-object-database,http://db-engines.com/en/system/Versant+Object+Database,Object oriented DBMS,1.58,159
+Drizzle,no,Open Source,http://www.drizzle.org/,http://db-engines.com/en/system/Drizzle,Relational DBMS,1.54,155
+InfluxDB,no,Open Source,influxdb.com,http://db-engines.com/en/system/InfluxDB,Time Series DBMS,1.53,154
+IMS,no,Commercial,http://www.ibm.com/software/data/ims/ims/,http://db-engines.com/en/system/IMS,Navigational DBMS,1.51,152
+Jena,no,Open Source,http://jena.apache.org/,http://db-engines.com/en/system/Jena,RDF store,1.49,150
+LevelDB,no,Open Source,code.google.com/­p/­leveldb,http://db-engines.com/en/system/LevelDB,Key-value store,1.47,148
+Datomic,no,Commercial,www.datomic.com,http://db-engines.com/en/system/Datomic,Document store,1.46,147
+Sesame,no,Open Source,http://www.openrdf.org/,http://db-engines.com/en/system/Sesame,RDF store,1.45,146
+VoltDB,no,Open Source,voltdb.com,http://db-engines.com/en/system/VoltDB,Relational DBMS,1.44,145
+Percona Server,no,Open Source,www.percona.com/­software/­percona-server,http://db-engines.com/en/system/Percona+Server,Relational DBMS,1.41,142
+IDMS,no,Commercial,www.ca.com/­us/­products/­detail/­CA-IDMS.aspx,http://db-engines.com/en/system/IDMS,Navigational DBMS,1.37,138
+ParAccel,no,Commercial,www.paraccel.com,http://db-engines.com/en/system/ParAccel,Relational DBMS,1.32,133
+Infobright,no,Open Source,www.infobright.com,http://db-engines.com/en/system/Infobright,Relational DBMS,1.28,129
+SQLBase,no,Commercial,www.guptatechnologies.com/­Products/­Data_Management/­SQLBase,http://db-engines.com/en/system/SQLBase,Relational DBMS,1.24,125
+D3,no,Commercial,www.tigerlogic.com/­tigerlogic/­pick/­database/­index.jsp,http://db-engines.com/en/system/D3,Multivalue DBMS,1.23,124
+Oracle Rdb,no,Commercial,http://www.oracle.com/technetwork/database/database-technologies/rdb/overview/index.html,http://db-engines.com/en/system/Oracle+Rdb,Relational DBMS,1.16,117
+FoundationDB,no,Commercial,foundationdb.com,http://db-engines.com/en/system/FoundationDB,Multi-model ,1.13,114
+FoundationDB,no,Commercial,foundationdb.com,http://db-engines.com/en/system/FoundationDB,Document store,1.13,114
+FoundationDB,no,Commercial,foundationdb.com,http://db-engines.com/en/system/FoundationDB,Key-value store,1.13,114
+FoundationDB,no,Commercial,foundationdb.com,http://db-engines.com/en/system/FoundationDB,Relational DBMS,1.13,114
+ArangoDB,no,Open Source,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,Multi-model ,1.1,111
+ArangoDB,no,Open Source,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,Document store,1.1,111
+ArangoDB,no,Open Source,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,Graph DBMS,1.1,111
+ArangoDB,no,Open Source,www.arangodb.com,http://db-engines.com/en/system/ArangoDB,Key-value store,1.1,111
+ObjectStore,no,Commercial,www.objectstore.com,http://db-engines.com/en/system/ObjectStore,Object oriented DBMS,1.1,111
+MemSQL,no,Commercial,www.memsql.com,http://db-engines.com/en/system/MemSQL,Relational DBMS,1.05,106
+Sedna,no,Open Source,www.sedna.org,http://db-engines.com/en/system/Sedna,Native XML DBMS,1.02,103
+MonetDB,no,Open Source,www.monetdb.org,http://db-engines.com/en/system/MonetDB,Relational DBMS,1,101
+jBASE,no,Commercial,www.jbase.com,http://db-engines.com/en/system/jBASE,Multivalue DBMS,0.98,99
+Mnesia,no,Open Source,www.erlang.org/­doc/­man/­mnesia.html,http://db-engines.com/en/system/Mnesia,Document store,0.98,99
+DataEase,no,Commercial,www.dataease.com,http://db-engines.com/en/system/DataEase,Relational DBMS,0.96,97
+Empress,no,Commercial,www.empress.com,http://db-engines.com/en/system/Empress,Relational DBMS,0.96,97
+Microsoft Azure DocumentDB,yes,Commercial,azure.microsoft.com/­en-us/­services/­documentdb,http://db-engines.com/en/system/Microsoft+Azure+DocumentDB,Document store,0.96,97
+NuoDB,?no?,Commercial,www.nuodb.com,http://db-engines.com/en/system/NuoDB,Relational DBMS,0.96,97
+Red Brick,no,Commercial,www-03.ibm.com/­software/­products/­us/­en/­redbrick,http://db-engines.com/en/system/Red+Brick,Relational DBMS,0.94,95
+PouchDB,no,Open Source,pouchdb.com,http://db-engines.com/en/system/PouchDB,Document store,0.89,90
+Amazon Aurora,yes,Commercial,aws.amazon.com/­rds/­aurora,http://db-engines.com/en/system/Amazon+Aurora,Relational DBMS,0.88,89
+Kdb+,no,Commercial,kx.com/­products.php,http://db-engines.com/en/system/Kdb%2B,Multi-model ,0.87,88
+Kdb+,no,Commercial,kx.com/­products.php,http://db-engines.com/en/system/Kdb%2B,Relational DBMS,0.87,88
+Kdb+,no,Commercial,kx.com/­products.php,http://db-engines.com/en/system/Kdb%2B,Time Series DBMS,0.87,88
+BaseX,no,Open Source,basex.org,http://db-engines.com/en/system/BaseX,Native XML DBMS,0.86,87
+GridGain,no,Commercial,www.gridgain.com,http://db-engines.com/en/system/GridGain,Key-value store,0.85,86
+Apache Drill,no,Open Source,drill.apache.org,http://db-engines.com/en/system/Apache+Drill,Relational DBMS,0.84,85
+Altibase,no,Commercial,altibase.com,http://db-engines.com/en/system/Altibase,Relational DBMS,0.83,84
+Google Cloud Datastore,yes,Commercial,developers.google.com/­datastore,http://db-engines.com/en/system/Google+Cloud+Datastore,Document store,0.82,83
+NonStop SQL,no,Commercial,h17007.www1.hp.com/­us/­en/­enterprise/­servers/­integrity/­nonstop/­nonstop-sql.aspx,http://db-engines.com/en/system/NonStop+SQL,Relational DBMS,0.81,82
+R:BASE,no,Commercial,www.rbase.com,http://db-engines.com/en/system/R%3ABASE,Relational DBMS,0.81,82
+AllegroGraph,no,Commercial,www.franz.com/­agraph/­allegrograph,http://db-engines.com/en/system/AllegroGraph,RDF store,0.78,79
+Giraph,no,Open Source,giraph.apache.org,http://db-engines.com/en/system/Giraph,Graph DBMS,0.78,79
+Model 204,no,Commercial,www.rocketsoftware.com/­m204,http://db-engines.com/en/system/Model+204,Multivalue DBMS,0.77,78
+Datacom/DB,no,Commercial,www.ca.com/­us/­opscenter/­ca-datacom.aspx,http://db-engines.com/en/system/Datacom%2FDB,Relational DBMS,0.75,76
+Microsoft Azure Search,yes,Commercial,azure.microsoft.com/­en-us/­services/­search,http://db-engines.com/en/system/Microsoft+Azure+Search,Search engine,0.74,75
+solidDB,no,Commercial,www.ibm.com/­software/­data/­soliddb,http://db-engines.com/en/system/solidDB,Relational DBMS,0.71,72
+Clustrix,no,Commercial,www.clustrix.com,http://db-engines.com/en/system/Clustrix,Relational DBMS,0.69,70
+Objectivity/DB,no,Commercial,www.objectivity.com/­products/­objectivitydb,http://db-engines.com/en/system/Objectivity%2FDB,Object oriented DBMS,0.67,68
+Vectorwise,no,Commercial,www.actian.com/­products/­vectorwise,http://db-engines.com/en/system/Vectorwise,Relational DBMS,0.66,67
+ZODB,no,Open Source,www.zodb.org,http://db-engines.com/en/system/ZODB,Key-value store,0.65,66
+Hypertable,no,Open Source,hypertable.org,http://db-engines.com/en/system/Hypertable,Wide column store,0.62,63
+1010data,no,Commercial,www.1010data.com,http://db-engines.com/en/system/1010data,Relational DBMS,0.61,62
+GT.M,no,Commercial,www.fisglobal.com/­products-technologyplatforms-gtm,http://db-engines.com/en/system/GT.M,Key-value store,0.61,62
+TokuDB,no,Open Source,www.tokutek.com/­products/­tokudb-for-mysql,http://db-engines.com/en/system/TokuDB,Relational DBMS,0.61,62
+DBISAM,no,Commercial,www.elevatesoft.com/­products?category=dbisam,http://db-engines.com/en/system/DBISAM,Relational DBMS,0.58,59
+Pervasive PSQL,no,Commercial,www.pervasivedb.com,http://db-engines.com/en/system/Pervasive+PSQL,Relational DBMS,0.56,57
+Tokyo Cabinet,no,Open Source,fallabs.com/­tokyocabinet,http://db-engines.com/en/system/Tokyo+Cabinet,Key-value store,0.55,56
+Xapian,no,Open Source,xapian.org,http://db-engines.com/en/system/Xapian,Search engine,0.55,56
+Sparksee,no,Commercial,sparsity-technologies.com/­#sparksee,http://db-engines.com/en/system/Sparksee,Graph DBMS,0.53,54
+CloudKit,no,Open Source,getcloudkit.com,http://db-engines.com/en/system/CloudKit,Document store,0.52,53
+InfiniDB,no,Open Source,infinidb.org,http://db-engines.com/en/system/InfiniDB,Relational DBMS,0.5,51
+Kognitio,no,Commercial,www.kognitio.com,http://db-engines.com/en/system/Kognitio,Relational DBMS,0.5,51
+Algebraix,no,Commercial,www.algebraixdata.com,http://db-engines.com/en/system/Algebraix,RDF store,0.48,49
+FrontBase,no,Commercial,www.frontbase.com,http://db-engines.com/en/system/FrontBase,Relational DBMS,0.48,49
+TokuMX,no,Open Source,www.tokutek.com/­products/­tokumx-for-mongodb,http://db-engines.com/en/system/TokuMX,Document store,0.47,48
+OpenBase,no,Commercial,www.openbase.com,http://db-engines.com/en/system/OpenBase,Relational DBMS,0.45,46
+Hadapt,no,Commercial,hadapt.com,http://db-engines.com/en/system/Hadapt,Relational DBMS,0.44,45
+NexusDB,no,Commercial,www.nexusdb.com,http://db-engines.com/en/system/NexusDB,Relational DBMS,0.44,45
+Northgate Reality,no,Commercial,www.northgate-reality.com,http://db-engines.com/en/system/Northgate+Reality,Multivalue DBMS,0.44,45
+VistaDB,no,Open Source,voltdb.com,http://db-engines.com/en/system/VoltDB,Relational DBMS,0.44,45
+NCache,no,Open Source,www.alachisoft.com/­ncache,http://db-engines.com/en/system/NCache,Key-value store,0.43,44
+Tamino,no,Commercial,www.softwareag.com/­corporate/­products/­wm/­tamino/­default.asp,http://db-engines.com/en/system/Tamino,Native XML DBMS,0.43,44
+EXASolution,no,Commercial,www.exasol.com/­en/­products/­exasolution,http://db-engines.com/en/system/EXASolution,Relational DBMS,0.4,41
+WebSphere eXtreme Scale,no,Commercial,www.ibm.com/­software/­products/­en/­websphere-extreme-scale,http://db-engines.com/en/system/WebSphere+eXtreme+Scale,Key-value store,0.39,40
+WiredTiger,no,Open Source,wiredtiger.com,http://db-engines.com/en/system/WiredTiger,Key-value store,0.37,38
+ObjectDB,no,Commercial,www.objectdb.com,http://db-engines.com/en/system/ObjectDB,Object oriented DBMS,0.36,37
+Perst,no,Open Source,www.mcobject.com/­perst,http://db-engines.com/en/system/Perst,Object oriented DBMS,0.36,37
+Rainstor,no,Commercial,rainstor.com/­products/­rainstor-database,http://db-engines.com/en/system/Rainstor,Relational DBMS,0.36,37
+SciDB,no,Open Source,scidb.org,http://db-engines.com/en/system/SciDB,Multivalue DBMS,0.36,37
+InfiniteGraph,no,Commercial,objectivity.com,http://db-engines.com/en/system/InfiniteGraph,Graph DBMS,0.35,36
+Cubrid,no,Open Source,,http://db-engines.com/en/system/Cubrid,Relational DBMS,0.33,34
+GemStone/S,no,Commercial,gemtalksystems.com,http://db-engines.com/en/system/GemStone/S,Object oriented DBMS,0.33,34
+eXist-db,no,Open Source,exist-db.org,http://db-engines.com/en/system/eXist-db,Native XML DBMS,0.3,31
+Indica,no,Commercial,indica.nl,http://db-engines.com/en/system/Indica,Search engine,0.3,31
+ITTIA,no,Commercial,www.ittia.com,http://db-engines.com/en/system/ITTIA,Relational DBMS,0.3,31
+Sqrrl,no,Commercial,sqrrl.com,http://db-engines.com/en/system/Sqrrl,Multi-model ,0.3,31
+Sqrrl,no,Commercial,sqrrl.com,http://db-engines.com/en/system/Sqrrl,Document store,0.3,31
+Sqrrl,no,Commercial,sqrrl.com,http://db-engines.com/en/system/Sqrrl,Graph DBMS,0.3,31
+Sqrrl,no,Commercial,sqrrl.com,http://db-engines.com/en/system/Sqrrl,Key-value store,0.3,31
+Sqrrl,no,Commercial,sqrrl.com,http://db-engines.com/en/system/Sqrrl,Wide column store,0.3,31
+eXtremeDB,no,Commercial,www.mcobject.com/­extremedbfamily.shtml,http://db-engines.com/en/system/eXtremeDB,Relational DBMS,0.29,30
+Tokyo Tyrant,no,Open Source,fallabs.com/­tokyotyrant,http://db-engines.com/en/system/Tokyo+Tyrant,Key-value store,0.29,30
+OpenInsight,no,Commercial,www.revelation.com/­index.php/­products/­openinsight,http://db-engines.com/en/system/OpenInsight,Multivalue DBMS,0.28,29
+ScimoreDB,no,Commercial,www.scimore.com,http://db-engines.com/en/system/ScimoreDB,Relational DBMS,0.27,28
+XAP,no,Commercial,docs.gigaspaces.com,http://db-engines.com/en/system/XAP,Key-value store,0.27,28
+Project Voldemort,no,Open Source,www.project-voldemort.com,http://db-engines.com/en/system/Project+Voldemort,Key-value store,0.26,27
+Stardog,no,Commercial,stardog.com,http://db-engines.com/en/system/Stardog,RDF store,0.25,26
+InfoGrid,no,Open Source,infogrid.org,http://db-engines.com/en/system/InfoGrid,Graph DBMS,0.24,25
+Hibari,no,Open Source,hibari.github.com/­hibari-doc,http://db-engines.com/en/system/Hibari,Key-value store,0.22,23
+Splice Machine,no,Commercial,www.splicemachine.com,http://db-engines.com/en/system/Splice+Machine,Relational DBMS,0.22,23
+Akiban,no,Open Source,www.akiban.com,http://db-engines.com/en/system/Akiban,Relational DBMS,0.21,22
+Compass,no,Open Source,www.compass-project.org,http://db-engines.com/en/system/Compass,Search engine,0.21,22
+RocksDB,no,Open Source,rocksdb.org,http://db-engines.com/en/system/RocksDB,Key-value store,0.21,22
+LucidDB,no,Open Source,luciddb.sourceforge.net,http://db-engines.com/en/system/LucidDB,Relational DBMS,0.2,21
+XtremeData,no,Commercial,www.xtremedata.com,http://db-engines.com/en/system/XtremeData,Relational DBMS,0.18,19
+Crate.IO,no,Open Source,crate.io,http://db-engines.com/en/system/Crate.IO,Multi-model ,0.17,18
+Crate.IO,no,Open Source,crate.io,http://db-engines.com/en/system/Crate.IO,Relational DBMS,0.17,18
+Crate.IO,no,Open Source,crate.io,http://db-engines.com/en/system/Crate.IO,Search engine,0.17,18
+MapDB,no,Open Source,www.mapdb.org,http://db-engines.com/en/system/MapDB,Key-value store,0.16,17
+Mimer SQL,no,Commercial,http://mimer.com/,http://db-engines.com/en/system/Mimer+SQL,Relational DBMS,0.16,17
+Clusterpoint,no,Commercial,www.clusterpoint.com,http://db-engines.com/en/system/Clusterpoint,Document store,0.15,16
+WebScaleSQL,no,Open Source,webscalesql.org,http://db-engines.com/en/system/WebScaleSQL,Relational DBMS,0.15,16
+Dataupia,no,Commercial,www.dataupia.com,http://db-engines.com/en/system/Dataupia,Relational DBMS,0.13,14
+Scalaris,no,Open Source,code.google.com/­p/­scalaris,http://db-engines.com/en/system/Scalaris,Key-value store,0.13,14
+ScaleBase,no,Commercial,www.scalebase.com,http://db-engines.com/en/system/ScaleBase,Relational DBMS,0.13,14
+STSdb,no,Open Source,stsdb.com,http://db-engines.com/en/system/STSdb,Key-value store,0.13,14
+GraphDB,no,Commercial,www.ontotext.com/­products/­ontotext-graphdb,http://db-engines.com/en/system/GraphDB,Multi-model ,0.12,13
+GraphDB,no,Commercial,www.ontotext.com/­products/­ontotext-graphdb,http://db-engines.com/en/system/GraphDB,Graph DBMS,0.12,13
+GraphDB,no,Commercial,www.ontotext.com/­products/­ontotext-graphdb,http://db-engines.com/en/system/GraphDB,RDF store,0.12,13
+Redland,no,Open Source,librdf.org,http://db-engines.com/en/system/Redland,RDF store,0.12,13
+FlockDB,no,Open Source,github.com/­twitter/­flockdb,http://db-engines.com/en/system/FlockDB,Graph DBMS,0.11,12
+HyperGraphDB,no,Open Source,www.hypergraphdb.org,http://db-engines.com/en/system/HyperGraphDB,Graph DBMS,0.11,12
+ModeShape,no,Open Source,www.jboss.org/­modeshape,http://db-engines.com/en/system/ModeShape,Content store,0.11,12
+4store,no,Open Source,4store.org,http://db-engines.com/en/system/4store,RDF store,0.1,11
+Kyoto Cabinet,no,Open Source,fallabs.com/­kyotocabinet,http://db-engines.com/en/system/Kyoto+Cabinet,Key-value store,0.09,10
+RedStore,no,Open Source,www.aelius.com/­njh/­redstore,http://db-engines.com/en/system/RedStore,RDF store,0.09,10
+Elliptics,no,Commercial,reverbrain.com/­elliptics,http://db-engines.com/en/system/Elliptics,Key-value store,0.08,9
+GenieDB,no,Commercial,www.geniedb.com,http://db-engines.com/en/system/GenieDB,Relational DBMS,0.08,9
+Rasdaman,no,Open Source,www.rasdaman.org,http://db-engines.com/en/system/Rasdaman,Multivalue DBMS,0.08,9
+ScaleDB,no,Commercial,www.scaledb.com,http://db-engines.com/en/system/ScaleDB,Relational DBMS,0.08,9
+SearchBlox,no,Commercial,www.searchblox.com,http://db-engines.com/en/system/SearchBlox,Search engine,0.08,9
+SQL.JS,no,Open Source,github.com/­kripken/­sql.js,http://db-engines.com/en/system/SQL.JS,Relational DBMS,0.08,9
+Strabon,no,Open Source,http://www.strabon.di.uoa.gr/,http://db-engines.com/en/system/Strabon,RDF store,0.08,9
+Terrastore,no,Open Source,code.google.com/­p/­terrastore,http://db-engines.com/en/system/Terrastore,Document store,0.08,9
+Tajo,no,Open Source,http://tajo.apache.org/,http://db-engines.com/en/system/Tajo,Relational DBMS,0.07,8
+Transbase,no,Commercial,www.transaction.de/­products/­transbase.html?L=1,http://db-engines.com/en/system/Transbase,Relational DBMS,0.07,8
+TransLattice,no,Commercial,www.translattice.com,http://db-engines.com/en/system/TransLattice,Relational DBMS,0.07,8
+HyperDex,no,Open Source,hyperdex.org,http://db-engines.com/en/system/HyperDex,Key-value store,0.06,7
+Eloquera,no,Commercial,www.eloquera.com,http://db-engines.com/en/system/Eloquera,Object oriented DBMS,0.04,5
+OpenQM,no,Open Source,www.openqm.com,http://db-engines.com/en/system/OpenQM,Multivalue DBMS,0.04,5
+Hamsterdb,no,Open Source,hamsterdb.com,http://db-engines.com/en/system/Hamsterdb,Key-value store,0.03,4
+Jade,no,Commercial,http://www.jade.co.nz/jade/,http://db-engines.com/en/system/Jade,Object oriented DBMS,0.03,4
+Siaqodb,no,Commercial,siaqodb.com,http://db-engines.com/en/system/Siaqodb,Object oriented DBMS,0.03,4
+SmallSQL,no,Open Source,www.smallsql.de,http://db-engines.com/en/system/SmallSQL,Relational DBMS,0.03,4
+c-treeACE,no,Commercial,http://www.faircom.com/ace/products_t.php,http://db-engines.com/en/system/c-treeACE,Relational DBMS,0.02,3
+ElevateDB,no,Commercial,www.elevatesoft.com/­products?category=edb,http://db-engines.com/en/system/ElevateDB,Relational DBMS,0.02,3
+ScaleOut StateServer,no,Commercial,http://www.scaleoutsoftware.com/products/scaleout-stateserver/,http://db-engines.com/en/system/ScaleOut+StateServer,Key-value store,0.02,3
+Versant FastObjects,no,Commercial,http://www.actian.com/products/operational-databases/versant/,http://db-engines.com/en/system/Versant+FastObjects,Object oriented DBMS,0.02,3
+JethroData,no,Commercial,http://www.jethrodata.com/,http://db-engines.com/en/system/JethroData,Relational DBMS,0.01,2
+Srch²,no,Commercial,srch2.com,http://db-engines.com/en/system/Srch²,Search engine,0.01,2
+Starcounter,no,Commercial,www.starcounter.com,http://db-engines.com/en/system/Starcounter,Object oriented DBMS,0.01,2
+Amisa Server,no,Commercial,http://www.amisalabs.com/,http://db-engines.com/en/system/Amisa+Server,Multi-model ,0,1
+Amisa Server,no,Commercial,http://www.amisalabs.com/,http://db-engines.com/en/system/Amisa+Server,Document store,0,1
+Amisa Server,no,Commercial,http://www.amisalabs.com/,http://db-engines.com/en/system/Amisa+Server,Graph DBMS,0,1
+Amisa Server,no,Commercial,http://www.amisalabs.com/,http://db-engines.com/en/system/Amisa+Server,Relational DBMS,0,1
+Bangdb,no,Open Source,http://www.iqlect.com/product.php,http://db-engines.com/en/system/Bangdb,Key-value store,0,1
+BergDB,,Open Source,bergdb.com,http://db-engines.com/en/system/BergDB,Key-value store,0,1
+Blazegraph,no,Open Source,blazegraph.com,http://db-engines.com/en/system/Blazegraph,Multi-model ,0,1
+Blazegraph,no,Open Source,blazegraph.com,http://db-engines.com/en/system/Blazegraph,Graph DBMS,0,1
+Blazegraph,no,Open Source,blazegraph.com,http://db-engines.com/en/system/Blazegraph,RDF store,0,1
+BrightstarDB,no,Open Source,http://www.brightstardb.com/,http://db-engines.com/en/system/BrightstarDB,RDF store,0,1
+CodernityDB,no,Open Source,http://labs.codernity.com/codernitydb/,http://db-engines.com/en/system/CodernityDB,Key-value store,0,1
+CortexDB,no,Commercial,www.cortex-ag.com/­cortexdoku/­cms.php,http://db-engines.com/en/system/CortexDB,Multi-model ,0,1
+CortexDB,no,Commercial,www.cortex-ag.com/­cortexdoku/­cms.php,http://db-engines.com/en/system/CortexDB,Document store,0,1
+CortexDB,no,Commercial,www.cortex-ag.com/­cortexdoku/­cms.php,http://db-engines.com/en/system/CortexDB,Key-value store,0,1
+CubicWeb,no,Commercial,http://www.cubicweb.org/,http://db-engines.com/en/system/CubicWeb,RDF store,0,1
+DBSight,no,Commercial,www.dbsight.net,http://db-engines.com/en/system/DBSight,Search engine,0,1
+DensoDB,no,Open Source,http://densodb.codeplex.com/,http://db-engines.com/en/system/DensoDB,Document store,0,1
+Djondb,no,Open Source,http://djondb.com/,http://db-engines.com/en/system/Djondb,Document store,0,1
+Dydra,no,Commercial,http://dydra.com/,http://db-engines.com/en/system/Dydra,RDF store,0,1
+EJDB,no,Open Source,http://ejdb.org/,http://db-engines.com/en/system/EJDB,Document store,0,1
+Event Store,no,Open Source,https://geteventstore.com/,http://db-engines.com/en/system/Event+Store,Event Store,0,1
+Exorbyte,no,Commercial,http://www.exorbyte.com/,http://db-engines.com/en/system/Exorbyte,Search engine,0,1
+FleetDB,no,Open Source,https://github.com/mmcgrana/fleetdb,http://db-engines.com/en/system/FleetDB,Document store,0,1
+GlobalsDB,no,Commercial,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,Multi-model ,0,1
+GlobalsDB,no,Commercial,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,Document store,0,1
+GlobalsDB,no,Commercial,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,Graph DBMS,0,1
+GlobalsDB,no,Commercial,http://globalsdb.org/,http://db-engines.com/en/system/GlobalsDB,Key-value store,0,1
+GraphBase,no,Commercial,graphbase.net,http://db-engines.com/en/system/GraphBase,Graph DBMS,0,1
+HyperLevelDB,no,Open Source,hyperdex.org/­performance/­leveldb,http://db-engines.com/en/system/HyperLevelDB,Key-value store,0,1
+JasDB,no,Open Source,http://www.oberasoftware.com/jasdb/,http://db-engines.com/en/system/JasDB,Document store,0,1
+JustOneDB,no,Commercial,http://www.justonedb.com/,http://db-engines.com/en/system/JustOneDB,Relational DBMS,0,1
+Kyoto Tycoon,no,Open Source,http://fallabs.com/kyototycoon/,http://db-engines.com/en/system/Kyoto+Tycoon,Key-value store,0,1
+LedisDB,no,Open Source,ledisdb.com,http://db-engines.com/en/system/LedisDB,Key-value store,0,1
+LightCloud,no,Open Source,http://opensource.plurk.com/LightCloud/,http://db-engines.com/en/system/LightCloud,Key-value store,0,1
+LokiJS,no,Open Source,lokijs.org,http://db-engines.com/en/system/LokiJS,Document store,0,1
+Mulgara,no,Open Source,http://www.mulgara.org/,http://db-engines.com/en/system/Mulgara,RDF store,0,1
+Nanolat,no,Open Source,http://nanolat.com/index/0-2,http://db-engines.com/en/system/Nanolat,Key-value store,0,1
+NEventStore,no,Open Source,http://neventstore.org/,http://db-engines.com/en/system/NEventStore,Event Store,0,1
+OrigoDB,no,Open Source,origodb.com,http://db-engines.com/en/system/OrigoDB,Multi-model ,0,1
+OrigoDB,no,Open Source,origodb.com,http://db-engines.com/en/system/OrigoDB,Document store,0,1
+OrigoDB,no,Open Source,origodb.com,http://db-engines.com/en/system/OrigoDB,Object oriented DBMS,0,1
+Postgres-XL,no,Open Source,http://www.postgres-xl.org/,http://db-engines.com/en/system/Postgres-XL,Relational DBMS,0,1
+Quasardb,no,Commercial,www.quasardb.net,http://db-engines.com/en/system/Quasardb,Key-value store,0,1
+RaptorDB,no,Open Source,http://raptordb.codeplex.com/,http://db-engines.com/en/system/RaptorDB,Document store,0,1
+Resin Cache,no,Open Source,http://www.caucho.com/,http://db-engines.com/en/system/Resin+Cache,Key-value store,0,1
+SenseiDB,no,Open Source,http://senseidb.com/,http://db-engines.com/en/system/SenseiDB,Document store,0,1
+Sequoiadb,no,Open Source,http://www.sequoiadb.com/,http://db-engines.com/en/system/Sequoiadb,Document store,0,1
+SisoDb,no,Open Source,http://www.sisodb.com/,http://db-engines.com/en/system/SisoDb,Document store,0,1
+SparkleDB,no,Commercial,http://www.sparkledb.net/,http://db-engines.com/en/system/SparkleDB,RDF store,0,1
+Tarantool,no,Open Source,http://tarantool.org/,http://db-engines.com/en/system/Tarantool,Key-value store,0,1
+TomP2P,no,Open Source,http://tomp2p.net/,http://db-engines.com/en/system/TomP2P,Key-value store,0,1
+Valentina Server,no,Commercial,www.valentina-db.net,http://db-engines.com/en/system/Valentina+Server,Relational DBMS,0,1
+VelocityDB,no,Commercial,http://www.velocitydb.com/,http://db-engines.com/en/system/VelocityDB,Object oriented DBMS,0,1
+VelocityGraph,no,Open Source,www.velocitygraph.com,http://db-engines.com/en/system/VelocityGraph,Graph DBMS,0,1
+WakandaDB,no,Open Source,www.wakanda.org,http://db-engines.com/en/system/WakandaDB,Object oriented DBMS,0,1
+WhiteDB,no,Open Source,whitedb.org,http://db-engines.com/en/system/WhiteDB,Document store,0,1

@@ -7,9 +7,16 @@ Step 1: raw-data.csv
    link: 
    https://docs.google.com/spreadsheets/d/1dWurCmcI_31kbA8Btv3MwE4pFQpfTwGJ_VHiZKRThUI/edit#gid=222265336
 
-   Data is on the :w
+   - Copy "Offerings Master" sheet to "Duplicated-For-Export-To-CVS" sheet
+   - Delete all fields you don't want to export
+   - Order the columns the way you want
+   - Makes sure the column headers have the names you want for the fields in JSON
+   - Export (using the "download" function) the "Duplicated-For-Export-To-CSV" sheet 
+   - Copy file to the raw-data directory and rename to raw-data/raw-data.csv
 
-Step 2: raw-data.json
+   (All steps above done by SJM - June 24 @ 10:40 am PST)
+
+Step 2: raw-data/raw-data.json
 
    Semi-automatically created using the website: 
    http://www.convertcsv.com/csv-to-json.htm
@@ -17,4 +24,8 @@ Step 2: raw-data.json
 Step 3: subset_<category name> 
 
    Created using the "create_categories.sh" script
+
+   NOTE the "create_categories.sh" script will have to be modified if any fields are added
+   deleted, renamed, etc. Also may need to be changed if there are new / additional or renamed
+   "categories" in the raw data.
 
