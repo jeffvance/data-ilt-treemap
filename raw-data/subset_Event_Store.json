@@ -1,0 +1,27 @@
+[
+    "Details":"http://db-engines.com/en/system/EJDB",
+    "Type":"Document store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Event Store",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"https://geteventstore.com/",
+    "Details":"http://db-engines.com/en/system/Event+Store",
+    "Type":"Event Store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"NEventStore",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://neventstore.org/",
+    "Details":"http://db-engines.com/en/system/NEventStore",
+    "Type":"Event Store",
+    "DB-engines-Score":0,
+    "size":1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "Name":"Adabas",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.softwareag.com/de/products/adabas_2010/default.asp",
+    "Details":"http://db-engines.com/en/system/Adabas",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":4.67,
+    "size":468
+  },
+  {
+    "Name":"UniData/UniVerse",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://u2.rocketsoftware.com/",
+    "Details":"http://db-engines.com/en/system/UniData%2CUniVerse",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":3.07,
+    "size":308
+  },
+  {
+    "Name":"D3",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.tigerlogic.com/­tigerlogic/­pick/­database/­index.jsp",
+    "Details":"http://db-engines.com/en/system/D3",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":1.23,
+    "size":124
+  },
+  {
+    "Name":"jBASE",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.jbase.com",
+    "Details":"http://db-engines.com/en/system/jBASE",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.98,
+    "size":99
+  },
+  {
+    "Name":"Model 204",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.rocketsoftware.com/­m204",
+    "Details":"http://db-engines.com/en/system/Model+204",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.77,
+    "size":78
+  },
+  {
+    "Name":"Northgate Reality",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.northgate-reality.com",
+    "Details":"http://db-engines.com/en/system/Northgate+Reality",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.44,
+    "size":45
+  },
+  {
+    "Name":"SciDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"scidb.org",
+    "Details":"http://db-engines.com/en/system/SciDB",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.36,
+    "size":37
+  },
+  {
+    "Name":"OpenInsight",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.revelation.com/­index.php/­products/­openinsight",
+    "Details":"http://db-engines.com/en/system/OpenInsight",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.28,
+    "size":29
+  },
+  {
+    "Name":"Rasdaman",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.rasdaman.org",
+    "Details":"http://db-engines.com/en/system/Rasdaman",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.08,
+    "size":9
+  },
+  {
+    "Name":"OpenQM",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.openqm.com",
+    "Details":"http://db-engines.com/en/system/OpenQM",
+    "Type":"Multivalue DBMS",
+    "DB-engines-Score":0.04,
+    "size":5
+  }
+]

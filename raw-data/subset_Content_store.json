@@ -1,0 +1,22 @@
+[
+  {
+    "Name":"Jackrabbit",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://jackrabbit.apache.org/",
+    "Details":"http://db-engines.com/en/system/Jackrabbit",
+    "Type":"Content store",
+    "DB-engines-Score":4.07,
+    "size":408
+  },
+  {
+    "Name":"ModeShape",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.jboss.org/­modeshape",
+    "Details":"http://db-engines.com/en/system/ModeShape",
+    "Type":"Content store",
+    "DB-engines-Score":0.11,
+    "size":12
+  }
+]

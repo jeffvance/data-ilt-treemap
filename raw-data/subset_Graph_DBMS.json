@@ -1,0 +1,172 @@
+[
+  {
+    "Name":"Neo4j",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"neo4j.org",
+    "Details":"http://db-engines.com/en/system/Neo4j",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":28.64,
+    "size":2865
+  },
+  {
+    "Name":"OrientDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.orientdb.org/",
+    "Details":"http://db-engines.com/en/system/OrientDB",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":3.99,
+    "size":400
+  },
+  {
+    "Name":"Titan",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://thinkaurelius.github.com/titan/",
+    "Details":"http://db-engines.com/en/system/Titan",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":3.51,
+    "size":352
+  },
+  {
+    "Name":"ArangoDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.arangodb.com",
+    "Details":"http://db-engines.com/en/system/ArangoDB",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":1.1,
+    "size":111
+  },
+  {
+    "Name":"Giraph",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"giraph.apache.org",
+    "Details":"http://db-engines.com/en/system/Giraph",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.78,
+    "size":79
+  },
+  {
+    "Name":"Sparksee",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"sparsity-technologies.com/­#sparksee",
+    "Details":"http://db-engines.com/en/system/Sparksee",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.53,
+    "size":54
+  },
+  {
+    "Name":"InfiniteGraph",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"objectivity.com",
+    "Details":"http://db-engines.com/en/system/InfiniteGraph",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.35,
+    "size":36
+  },
+  {
+    "Name":"Sqrrl",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"sqrrl.com",
+    "Details":"http://db-engines.com/en/system/Sqrrl",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.3,
+    "size":31
+  },
+  {
+    "Name":"InfoGrid",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"infogrid.org",
+    "Details":"http://db-engines.com/en/system/InfoGrid",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.24,
+    "size":25
+  },
+  {
+    "Name":"GraphDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ontotext.com/­products/­ontotext-graphdb",
+    "Details":"http://db-engines.com/en/system/GraphDB",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.12,
+    "size":13
+  },
+  {
+    "Name":"FlockDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"github.com/­twitter/­flockdb",
+    "Details":"http://db-engines.com/en/system/FlockDB",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.11,
+    "size":12
+  },
+  {
+    "Name":"HyperGraphDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.hypergraphdb.org",
+    "Details":"http://db-engines.com/en/system/HyperGraphDB",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0.11,
+    "size":12
+  },
+  {
+    "Name":"Amisa Server",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.amisalabs.com/",
+    "Details":"http://db-engines.com/en/system/Amisa+Server",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Blazegraph",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"blazegraph.com",
+    "Details":"http://db-engines.com/en/system/Blazegraph",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"GlobalsDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://globalsdb.org/",
+    "Details":"http://db-engines.com/en/system/GlobalsDB",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"GraphBase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"graphbase.net",
+    "Details":"http://db-engines.com/en/system/GraphBase",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"VelocityGraph",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.velocitygraph.com",
+    "Details":"http://db-engines.com/en/system/VelocityGraph",
+    "Type":"Graph DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  }
+]

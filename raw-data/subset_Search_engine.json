@@ -1,0 +1,162 @@
+[
+  {
+    "Name":"Solr",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"lucene.apache.org/­solr",
+    "Details":"http://db-engines.com/en/system/Solr",
+    "Type":"Search engine",
+    "DB-engines-Score":82.93,
+    "size":8294
+  },
+  {
+    "Name":"Elasticsearch",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.elasticsearch.org",
+    "Details":"http://db-engines.com/en/system/Elasticsearch",
+    "Type":"Search engine",
+    "DB-engines-Score":64.83,
+    "size":6484
+  },
+  {
+    "Name":"Splunk",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.splunk.com",
+    "Details":"http://db-engines.com/en/system/Splunk",
+    "Type":"Search engine",
+    "DB-engines-Score":40.72,
+    "size":4073
+  },
+  {
+    "Name":"MarkLogic",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.marklogic.com",
+    "Details":"http://db-engines.com/en/system/MarkLogic",
+    "Type":"Search engine",
+    "DB-engines-Score":9.9,
+    "size":991
+  },
+  {
+    "Name":"Sphinx",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"sphinxsearch.com",
+    "Details":"http://db-engines.com/en/system/Sphinx",
+    "Type":"Search engine",
+    "DB-engines-Score":9.8,
+    "size":981
+  },
+  {
+    "Name":"Endeca",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html",
+    "Details":"http://db-engines.com/en/system/Endeca",
+    "Type":"Search engine",
+    "DB-engines-Score":8.53,
+    "size":854
+  },
+  {
+    "Name":"Google Search Appliance",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.google.com/­enterprise/­search/­campaigns/­gsa7.html",
+    "Details":"http://db-engines.com/en/system/Google+Search+Appliance",
+    "Type":"Search engine",
+    "DB-engines-Score":3.7,
+    "size":371
+  },
+  {
+    "Name":"Microsoft Azure Search",
+    "DBaaS":"yes",
+    "License":"Commercial",
+    "Web-site":"azure.microsoft.com/­en-us/­services/­search",
+    "Details":"http://db-engines.com/en/system/Microsoft+Azure+Search",
+    "Type":"Search engine",
+    "DB-engines-Score":0.74,
+    "size":75
+  },
+  {
+    "Name":"Xapian",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"xapian.org",
+    "Details":"http://db-engines.com/en/system/Xapian",
+    "Type":"Search engine",
+    "DB-engines-Score":0.55,
+    "size":56
+  },
+  {
+    "Name":"Indica",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"indica.nl",
+    "Details":"http://db-engines.com/en/system/Indica",
+    "Type":"Search engine",
+    "DB-engines-Score":0.3,
+    "size":31
+  },
+  {
+    "Name":"Compass",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.compass-project.org",
+    "Details":"http://db-engines.com/en/system/Compass",
+    "Type":"Search engine",
+    "DB-engines-Score":0.21,
+    "size":22
+  },
+  {
+    "Name":"Crate.IO",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"crate.io",
+    "Details":"http://db-engines.com/en/system/Crate.IO",
+    "Type":"Search engine",
+    "DB-engines-Score":0.17,
+    "size":18
+  },
+  {
+    "Name":"SearchBlox",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.searchblox.com",
+    "Details":"http://db-engines.com/en/system/SearchBlox",
+    "Type":"Search engine",
+    "DB-engines-Score":0.08,
+    "size":9
+  },
+  {
+    "Name":"Srch²",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"srch2.com",
+    "Details":"http://db-engines.com/en/system/Srch²",
+    "Type":"Search engine",
+    "DB-engines-Score":0.01,
+    "size":2
+  },
+  {
+    "Name":"DBSight",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.dbsight.net",
+    "Details":"http://db-engines.com/en/system/DBSight",
+    "Type":"Search engine",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Exorbyte",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.exorbyte.com/",
+    "Details":"http://db-engines.com/en/system/Exorbyte",
+    "Type":"Search engine",
+    "DB-engines-Score":0,
+    "size":1
+  }
+]

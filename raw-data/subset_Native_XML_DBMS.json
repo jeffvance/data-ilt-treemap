@@ -1,0 +1,62 @@
+[
+  {
+    "Name":"MarkLogic",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.marklogic.com",
+    "Details":"http://db-engines.com/en/system/MarkLogic",
+    "Type":"Native XML DBMS",
+    "DB-engines-Score":9.9,
+    "size":991
+  },
+  {
+    "Name":"Virtuoso",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://virtuoso.openlinksw.com/",
+    "Details":"http://db-engines.com/en/system/Virtuoso",
+    "Type":"Native XML DBMS",
+    "DB-engines-Score":3.06,
+    "size":307
+  },
+  {
+    "Name":"Sedna",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.sedna.org",
+    "Details":"http://db-engines.com/en/system/Sedna",
+    "Type":"Native XML DBMS",
+    "DB-engines-Score":1.02,
+    "size":103
+  },
+  {
+    "Name":"BaseX",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"basex.org",
+    "Details":"http://db-engines.com/en/system/BaseX",
+    "Type":"Native XML DBMS",
+    "DB-engines-Score":0.86,
+    "size":87
+  },
+  {
+    "Name":"Tamino",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.softwareag.com/­corporate/­products/­wm/­tamino/­default.asp",
+    "Details":"http://db-engines.com/en/system/Tamino",
+    "Type":"Native XML DBMS",
+    "DB-engines-Score":0.43,
+    "size":44
+  },
+  {
+    "Name":"eXist-db",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"exist-db.org",
+    "Details":"http://db-engines.com/en/system/eXist-db",
+    "Type":"Native XML DBMS",
+    "DB-engines-Score":0.3,
+    "size":31
+  }
+]

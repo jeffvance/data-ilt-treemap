@@ -1,0 +1,182 @@
+[
+  {
+    "Name":"MarkLogic",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.marklogic.com",
+    "Details":"http://db-engines.com/en/system/MarkLogic",
+    "Type":"RDF store",
+    "DB-engines-Score":9.9,
+    "size":991
+  },
+  {
+    "Name":"Virtuoso",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://virtuoso.openlinksw.com/",
+    "Details":"http://db-engines.com/en/system/Virtuoso",
+    "Type":"RDF store",
+    "DB-engines-Score":3.06,
+    "size":307
+  },
+  {
+    "Name":"Jena",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://jena.apache.org/",
+    "Details":"http://db-engines.com/en/system/Jena",
+    "Type":"RDF store",
+    "DB-engines-Score":1.49,
+    "size":150
+  },
+  {
+    "Name":"Sesame",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.openrdf.org/",
+    "Details":"http://db-engines.com/en/system/Sesame",
+    "Type":"RDF store",
+    "DB-engines-Score":1.45,
+    "size":146
+  },
+  {
+    "Name":"AllegroGraph",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.franz.com/­agraph/­allegrograph",
+    "Details":"http://db-engines.com/en/system/AllegroGraph",
+    "Type":"RDF store",
+    "DB-engines-Score":0.78,
+    "size":79
+  },
+  {
+    "Name":"Algebraix",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.algebraixdata.com",
+    "Details":"http://db-engines.com/en/system/Algebraix",
+    "Type":"RDF store",
+    "DB-engines-Score":0.48,
+    "size":49
+  },
+  {
+    "Name":"Stardog",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"stardog.com",
+    "Details":"http://db-engines.com/en/system/Stardog",
+    "Type":"RDF store",
+    "DB-engines-Score":0.25,
+    "size":26
+  },
+  {
+    "Name":"GraphDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ontotext.com/­products/­ontotext-graphdb",
+    "Details":"http://db-engines.com/en/system/GraphDB",
+    "Type":"RDF store",
+    "DB-engines-Score":0.12,
+    "size":13
+  },
+  {
+    "Name":"Redland",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"librdf.org",
+    "Details":"http://db-engines.com/en/system/Redland",
+    "Type":"RDF store",
+    "DB-engines-Score":0.12,
+    "size":13
+  },
+  {
+    "Name":"4store",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"4store.org",
+    "Details":"http://db-engines.com/en/system/4store",
+    "Type":"RDF store",
+    "DB-engines-Score":0.1,
+    "size":11
+  },
+  {
+    "Name":"RedStore",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.aelius.com/­njh/­redstore",
+    "Details":"http://db-engines.com/en/system/RedStore",
+    "Type":"RDF store",
+    "DB-engines-Score":0.09,
+    "size":10
+  },
+  {
+    "Name":"Strabon",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.strabon.di.uoa.gr/",
+    "Details":"http://db-engines.com/en/system/Strabon",
+    "Type":"RDF store",
+    "DB-engines-Score":0.08,
+    "size":9
+  },
+  {
+    "Name":"Blazegraph",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"blazegraph.com",
+    "Details":"http://db-engines.com/en/system/Blazegraph",
+    "Type":"RDF store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"BrightstarDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.brightstardb.com/",
+    "Details":"http://db-engines.com/en/system/BrightstarDB",
+    "Type":"RDF store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"CubicWeb",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.cubicweb.org/",
+    "Details":"http://db-engines.com/en/system/CubicWeb",
+    "Type":"RDF store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Dydra",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://dydra.com/",
+    "Details":"http://db-engines.com/en/system/Dydra",
+    "Type":"RDF store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Mulgara",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.mulgara.org/",
+    "Details":"http://db-engines.com/en/system/Mulgara",
+    "Type":"RDF store",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"SparkleDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.sparkledb.net/",
+    "Details":"http://db-engines.com/en/system/SparkleDB",
+    "Type":"RDF store",
+    "DB-engines-Score":0,
+    "size":1
+  }
+]

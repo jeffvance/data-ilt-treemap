@@ -1,0 +1,22 @@
+[
+  {
+    "Name":"InfluxDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"influxdb.com",
+    "Details":"http://db-engines.com/en/system/InfluxDB",
+    "Type":"Time Series DBMS",
+    "DB-engines-Score":1.53,
+    "size":154
+  },
+  {
+    "Name":"Kdb+",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"kx.com/­products.php",
+    "Details":"http://db-engines.com/en/system/Kdb%2B",
+    "Type":"Time Series DBMS",
+    "DB-engines-Score":0.87,
+    "size":88
+  }
+]

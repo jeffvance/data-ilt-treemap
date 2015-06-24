@@ -1,0 +1,22 @@
+[
+  {
+    "Name":"IMS",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.ibm.com/software/data/ims/ims/",
+    "Details":"http://db-engines.com/en/system/IMS",
+    "Type":"Navigational DBMS",
+    "DB-engines-Score":1.51,
+    "size":152
+  },
+  {
+    "Name":"IDMS",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ca.com/­us/­products/­detail/­CA-IDMS.aspx",
+    "Details":"http://db-engines.com/en/system/IDMS",
+    "Type":"Navigational DBMS",
+    "DB-engines-Score":1.37,
+    "size":138
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "Name":"Oracle",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.oracle.com/­us/­products/­database",
+    "Details":"http://db-engines.com/en/system/Oracle",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1442.1,
+    "size":144211
+  },
+  {
+    "Name":"MySQL",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.mysql.com",
+    "Details":"http://db-engines.com/en/system/Oracle",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1294.26,
+    "size":129427
+  },
+  {
+    "Name":"Microsoft SQL Server",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.microsoft.com/­sqlserver",
+    "Details":"http://db-engines.com/en/system/Microsoft+SQL+Server",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1131.03,
+    "size":113104
+  },
+  {
+    "Name":"PostgreSQL",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.postgresql.org",
+    "Details":"http://db-engines.com/en/system/PostgreSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":273.52,
+    "size":27353
+  },
+  {
+    "Name":"DB2",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"ibm.com/­software/­data/­db2",
+    "Details":"http://db-engines.com/en/system/DB2",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":201.04,
+    "size":20105
+  },
+  {
+    "Name":"Microsoft Access",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"office.microsoft.com/­en-us/­access",
+    "Details":"http://db-engines.com/en/system/Microsoft+Access",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":145.58,
+    "size":14559
+  },
+  {
+    "Name":"SQLite",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"sqlite.org",
+    "Details":"http://db-engines.com/en/system/SQLite",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":105.16,
+    "size":10517
+  },
+  {
+    "Name":"SAP Adaptive Server",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.sap.com/­pc/­tech/­database/­software/­adaptive-server-enterprise/­index.html",
+    "Details":"http://db-engines.com/en/system/SAP+Adaptive+Server",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":85.49,
+    "size":8550
+  },
+  {
+    "Name":"Teradata",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.teradata.com",
+    "Details":"http://db-engines.com/en/system/Teradata",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":70.13,
+    "size":7014
+  },
+  {
+    "Name":"FileMaker",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.filemaker.com",
+    "Details":"http://db-engines.com/en/system/Teradata",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":52.9,
+    "size":5291
+  },
+  {
+    "Name":"Hive",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"hive.apache.org",
+    "Details":"http://db-engines.com/en/system/Hive",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":44.56,
+    "size":4457
+  },
+  {
+    "Name":"Informix",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ibm.com/­software/­data/­informix",
+    "Details":"http://db-engines.com/en/system/Informix",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":36.74,
+    "size":3675
+  },
+  {
+    "Name":"SAP HANA",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.saphana.com",
+    "Details":"http://db-engines.com/en/system/SAP+HANA",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":32.78,
+    "size":3279
+  },
+  {
+    "Name":"MariaDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"mariadb.org",
+    "Details":"http://db-engines.com/en/system/MariaDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":23.6,
+    "size":2361
+  },
+  {
+    "Name":"Firebird",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.firebirdsql.org",
+    "Details":"http://db-engines.com/en/system/Firebird",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":21.82,
+    "size":2183
+  },
+  {
+    "Name":"Netezza",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.netezza.com",
+    "Details":"http://db-engines.com/en/system/Netezza",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":18.12,
+    "size":1813
+  },
+  {
+    "Name":"Microsoft Azure SQL Database",
+    "DBaaS":"yes",
+    "License":"Commercial",
+    "Web-site":"azure.microsoft.com/­en-us/­services/­sql-database",
+    "Details":"http://db-engines.com/en/system/Microsoft+Azure+SQL+Database",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":15.73,
+    "size":1574
+  },
+  {
+    "Name":"Vertica",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.vertica.com",
+    "Details":"http://db-engines.com/en/system/Vertica",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":15.01,
+    "size":1502
+  },
+  {
+    "Name":"dBASE",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.dbase.com",
+    "Details":"http://db-engines.com/en/system/dBASE",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":10.43,
+    "size":1044
+  },
+  {
+    "Name":"Ingres",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.actian.com/­products/­operational-databases/­ingres",
+    "Details":"http://db-engines.com/en/system/Ingres",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":10.24,
+    "size":1025
+  },
+  {
+    "Name":"Greenplum",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.gopivotal.com/­big-data/­pivotal-greenplum-database",
+    "Details":"http://db-engines.com/en/system/Greenplum",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":8.58,
+    "size":859
+  },
+  {
+    "Name":"SAP SQL Anywhere",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.sap.com/­pc/­tech/­database/­software/­sybase-sql-anywhere",
+    "Details":"http://db-engines.com/en/system/SAP+SQL+Anywhere",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":5.39,
+    "size":540
+  },
+  {
+    "Name":"Amazon Redshift",
+    "DBaaS":"yes",
+    "License":"Commercial",
+    "Web-site":"aws.amazon.com/­redshift",
+    "Details":"http://db-engines.com/en/system/Amazon+Redshift",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":5.37,
+    "size":538
+  },
+  {
+    "Name":"Interbase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"",
+    "Details":"http://db-engines.com/en/system/Interbase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":5.3,
+    "size":531
+  },
+  {
+    "Name":"SAP IQ",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.sap.com/­pc/­tech/­database/­software/­sybase-iq-big-data-management",
+    "Details":"http://db-engines.com/en/system/SAP+IQ",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":5.22,
+    "size":523
+  },
+  {
+    "Name":"HyperSQL",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"",
+    "Details":"http://db-engines.com/en/system/HyperSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":4.6,
+    "size":461
+  },
+  {
+    "Name":"Impala",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html",
+    "Details":"http://db-engines.com/en/system/Impala",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":4.6,
+    "size":461
+  },
+  {
+    "Name":"mSQL",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.hughes.com.au/products/msql/",
+    "Details":"http://db-engines.com/en/system/mSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":4.43,
+    "size":444
+  },
+  {
+    "Name":"Derby",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://db.apache.org/derby/",
+    "Details":"http://db-engines.com/en/system/Derby",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":4.04,
+    "size":405
+  },
+  {
+    "Name":"H2",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.h2database.com/",
+    "Details":"http://db-engines.com/en/system/H2",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":3.93,
+    "size":394
+  },
+  {
+    "Name":"Google BigQuery",
+    "DBaaS":"yes",
+    "License":"Commercial",
+    "Web-site":"http://developers.google.com/bigquery/",
+    "Details":"http://db-engines.com/en/system/Google+BigQuery",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":3.89,
+    "size":390
+  },
+  {
+    "Name":"MaxDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://maxdb.sap.com/",
+    "Details":"http://db-engines.com/en/system/MaxDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":3.35,
+    "size":336
+  },
+  {
+    "Name":"Virtuoso",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://virtuoso.openlinksw.com/",
+    "Details":"http://db-engines.com/en/system/Virtuoso",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":3.06,
+    "size":307
+  },
+  {
+    "Name":"SAP Advantage Database Server",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.sap.com/­pc/­tech/­database/­software/­advantage-database-server",
+    "Details":"http://db-engines.com/en/system/SAP+Advantage+Database+Server",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":2.7,
+    "size":271
+  },
+  {
+    "Name":"TimesTen",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.oracle.com/us/products/database/timesten/index.html",
+    "Details":"http://db-engines.com/en/system/TimesTen",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":2.69,
+    "size":270
+  },
+  {
+    "Name":"OpenEdge",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.progress.com/en/openedge/developer-productivity/database/index.html",
+    "Details":"http://db-engines.com/en/system/OpenEdge",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":2.17,
+    "size":218
+  },
+  {
+    "Name":"Teradata Aster",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.asterdata.com/",
+    "Details":"http://db-engines.com/en/system/Teradata+Aster",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.82,
+    "size":183
+  },
+  {
+    "Name":"EnterpriseDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.enterprisedb.com/",
+    "Details":"http://db-engines.com/en/system/EnterpriseDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.77,
+    "size":178
+  },
+  {
+    "Name":"Drizzle",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.drizzle.org/",
+    "Details":"http://db-engines.com/en/system/Drizzle",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.54,
+    "size":155
+  },
+  {
+    "Name":"VoltDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"voltdb.com",
+    "Details":"http://db-engines.com/en/system/VoltDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.44,
+    "size":145
+  },
+  {
+    "Name":"Percona Server",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.percona.com/­software/­percona-server",
+    "Details":"http://db-engines.com/en/system/Percona+Server",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.41,
+    "size":142
+  },
+  {
+    "Name":"ParAccel",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.paraccel.com",
+    "Details":"http://db-engines.com/en/system/ParAccel",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.32,
+    "size":133
+  },
+  {
+    "Name":"Infobright",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.infobright.com",
+    "Details":"http://db-engines.com/en/system/Infobright",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.28,
+    "size":129
+  },
+  {
+    "Name":"SQLBase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.guptatechnologies.com/­Products/­Data_Management/­SQLBase",
+    "Details":"http://db-engines.com/en/system/SQLBase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.24,
+    "size":125
+  },
+  {
+    "Name":"Oracle Rdb",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.oracle.com/technetwork/database/database-technologies/rdb/overview/index.html",
+    "Details":"http://db-engines.com/en/system/Oracle+Rdb",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.16,
+    "size":117
+  },
+  {
+    "Name":"FoundationDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"foundationdb.com",
+    "Details":"http://db-engines.com/en/system/FoundationDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.13,
+    "size":114
+  },
+  {
+    "Name":"MemSQL",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.memsql.com",
+    "Details":"http://db-engines.com/en/system/MemSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1.05,
+    "size":106
+  },
+  {
+    "Name":"MonetDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.monetdb.org",
+    "Details":"http://db-engines.com/en/system/MonetDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":1,
+    "size":101
+  },
+  {
+    "Name":"DataEase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.dataease.com",
+    "Details":"http://db-engines.com/en/system/DataEase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.96,
+    "size":97
+  },
+  {
+    "Name":"Empress",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.empress.com",
+    "Details":"http://db-engines.com/en/system/Empress",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.96,
+    "size":97
+  },
+  {
+    "Name":"NuoDB",
+    "DBaaS":"?no?",
+    "License":"Commercial",
+    "Web-site":"www.nuodb.com",
+    "Details":"http://db-engines.com/en/system/NuoDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.96,
+    "size":97
+  },
+  {
+    "Name":"Red Brick",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www-03.ibm.com/­software/­products/­us/­en/­redbrick",
+    "Details":"http://db-engines.com/en/system/Red+Brick",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.94,
+    "size":95
+  },
+  {
+    "Name":"Amazon Aurora",
+    "DBaaS":"yes",
+    "License":"Commercial",
+    "Web-site":"aws.amazon.com/­rds/­aurora",
+    "Details":"http://db-engines.com/en/system/Amazon+Aurora",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.88,
+    "size":89
+  },
+  {
+    "Name":"Kdb+",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"kx.com/­products.php",
+    "Details":"http://db-engines.com/en/system/Kdb%2B",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.87,
+    "size":88
+  },
+  {
+    "Name":"Apache Drill",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"drill.apache.org",
+    "Details":"http://db-engines.com/en/system/Apache+Drill",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.84,
+    "size":85
+  },
+  {
+    "Name":"Altibase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"altibase.com",
+    "Details":"http://db-engines.com/en/system/Altibase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.83,
+    "size":84
+  },
+  {
+    "Name":"NonStop SQL",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"h17007.www1.hp.com/­us/­en/­enterprise/­servers/­integrity/­nonstop/­nonstop-sql.aspx",
+    "Details":"http://db-engines.com/en/system/NonStop+SQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.81,
+    "size":82
+  },
+  {
+    "Name":"R:BASE",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.rbase.com",
+    "Details":"http://db-engines.com/en/system/R%3ABASE",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.81,
+    "size":82
+  },
+  {
+    "Name":"Datacom/DB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ca.com/­us/­opscenter/­ca-datacom.aspx",
+    "Details":"http://db-engines.com/en/system/Datacom%2FDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.75,
+    "size":76
+  },
+  {
+    "Name":"solidDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ibm.com/­software/­data/­soliddb",
+    "Details":"http://db-engines.com/en/system/solidDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.71,
+    "size":72
+  },
+  {
+    "Name":"Clustrix",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.clustrix.com",
+    "Details":"http://db-engines.com/en/system/Clustrix",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.69,
+    "size":70
+  },
+  {
+    "Name":"Vectorwise",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.actian.com/­products/­vectorwise",
+    "Details":"http://db-engines.com/en/system/Vectorwise",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.66,
+    "size":67
+  },
+  {
+    "Name":"1010data",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.1010data.com",
+    "Details":"http://db-engines.com/en/system/1010data",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.61,
+    "size":62
+  },
+  {
+    "Name":"TokuDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.tokutek.com/­products/­tokudb-for-mysql",
+    "Details":"http://db-engines.com/en/system/TokuDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.61,
+    "size":62
+  },
+  {
+    "Name":"DBISAM",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.elevatesoft.com/­products?category=dbisam",
+    "Details":"http://db-engines.com/en/system/DBISAM",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.58,
+    "size":59
+  },
+  {
+    "Name":"Pervasive PSQL",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.pervasivedb.com",
+    "Details":"http://db-engines.com/en/system/Pervasive+PSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.56,
+    "size":57
+  },
+  {
+    "Name":"InfiniDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"infinidb.org",
+    "Details":"http://db-engines.com/en/system/InfiniDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.5,
+    "size":51
+  },
+  {
+    "Name":"Kognitio",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.kognitio.com",
+    "Details":"http://db-engines.com/en/system/Kognitio",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.5,
+    "size":51
+  },
+  {
+    "Name":"FrontBase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.frontbase.com",
+    "Details":"http://db-engines.com/en/system/FrontBase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.48,
+    "size":49
+  },
+  {
+    "Name":"OpenBase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.openbase.com",
+    "Details":"http://db-engines.com/en/system/OpenBase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.45,
+    "size":46
+  },
+  {
+    "Name":"Hadapt",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"hadapt.com",
+    "Details":"http://db-engines.com/en/system/Hadapt",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.44,
+    "size":45
+  },
+  {
+    "Name":"NexusDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.nexusdb.com",
+    "Details":"http://db-engines.com/en/system/NexusDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.44,
+    "size":45
+  },
+  {
+    "Name":"VistaDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"voltdb.com",
+    "Details":"http://db-engines.com/en/system/VoltDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.44,
+    "size":45
+  },
+  {
+    "Name":"EXASolution",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.exasol.com/­en/­products/­exasolution",
+    "Details":"http://db-engines.com/en/system/EXASolution",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.4,
+    "size":41
+  },
+  {
+    "Name":"Rainstor",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"rainstor.com/­products/­rainstor-database",
+    "Details":"http://db-engines.com/en/system/Rainstor",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.36,
+    "size":37
+  },
+  {
+    "Name":"Cubrid",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"",
+    "Details":"http://db-engines.com/en/system/Cubrid",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.33,
+    "size":34
+  },
+  {
+    "Name":"ITTIA",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.ittia.com",
+    "Details":"http://db-engines.com/en/system/ITTIA",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.3,
+    "size":31
+  },
+  {
+    "Name":"eXtremeDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.mcobject.com/­extremedbfamily.shtml",
+    "Details":"http://db-engines.com/en/system/eXtremeDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.29,
+    "size":30
+  },
+  {
+    "Name":"ScimoreDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.scimore.com",
+    "Details":"http://db-engines.com/en/system/ScimoreDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.27,
+    "size":28
+  },
+  {
+    "Name":"Splice Machine",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.splicemachine.com",
+    "Details":"http://db-engines.com/en/system/Splice+Machine",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.22,
+    "size":23
+  },
+  {
+    "Name":"Akiban",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.akiban.com",
+    "Details":"http://db-engines.com/en/system/Akiban",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.21,
+    "size":22
+  },
+  {
+    "Name":"LucidDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"luciddb.sourceforge.net",
+    "Details":"http://db-engines.com/en/system/LucidDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.2,
+    "size":21
+  },
+  {
+    "Name":"XtremeData",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.xtremedata.com",
+    "Details":"http://db-engines.com/en/system/XtremeData",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.18,
+    "size":19
+  },
+  {
+    "Name":"Crate.IO",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"crate.io",
+    "Details":"http://db-engines.com/en/system/Crate.IO",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.17,
+    "size":18
+  },
+  {
+    "Name":"Mimer SQL",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://mimer.com/",
+    "Details":"http://db-engines.com/en/system/Mimer+SQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.16,
+    "size":17
+  },
+  {
+    "Name":"WebScaleSQL",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"webscalesql.org",
+    "Details":"http://db-engines.com/en/system/WebScaleSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.15,
+    "size":16
+  },
+  {
+    "Name":"Dataupia",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.dataupia.com",
+    "Details":"http://db-engines.com/en/system/Dataupia",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.13,
+    "size":14
+  },
+  {
+    "Name":"ScaleBase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.scalebase.com",
+    "Details":"http://db-engines.com/en/system/ScaleBase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.13,
+    "size":14
+  },
+  {
+    "Name":"GenieDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.geniedb.com",
+    "Details":"http://db-engines.com/en/system/GenieDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.08,
+    "size":9
+  },
+  {
+    "Name":"ScaleDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.scaledb.com",
+    "Details":"http://db-engines.com/en/system/ScaleDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.08,
+    "size":9
+  },
+  {
+    "Name":"SQL.JS",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"github.com/­kripken/­sql.js",
+    "Details":"http://db-engines.com/en/system/SQL.JS",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.08,
+    "size":9
+  },
+  {
+    "Name":"Tajo",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://tajo.apache.org/",
+    "Details":"http://db-engines.com/en/system/Tajo",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.07,
+    "size":8
+  },
+  {
+    "Name":"Transbase",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.transaction.de/­products/­transbase.html?L=1",
+    "Details":"http://db-engines.com/en/system/Transbase",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.07,
+    "size":8
+  },
+  {
+    "Name":"TransLattice",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.translattice.com",
+    "Details":"http://db-engines.com/en/system/TransLattice",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.07,
+    "size":8
+  },
+  {
+    "Name":"SmallSQL",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.smallsql.de",
+    "Details":"http://db-engines.com/en/system/SmallSQL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.03,
+    "size":4
+  },
+  {
+    "Name":"c-treeACE",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.faircom.com/ace/products_t.php",
+    "Details":"http://db-engines.com/en/system/c-treeACE",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.02,
+    "size":3
+  },
+  {
+    "Name":"ElevateDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.elevatesoft.com/­products?category=edb",
+    "Details":"http://db-engines.com/en/system/ElevateDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.02,
+    "size":3
+  },
+  {
+    "Name":"JethroData",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.jethrodata.com/",
+    "Details":"http://db-engines.com/en/system/JethroData",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0.01,
+    "size":2
+  },
+  {
+    "Name":"Amisa Server",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.amisalabs.com/",
+    "Details":"http://db-engines.com/en/system/Amisa+Server",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"JustOneDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.justonedb.com/",
+    "Details":"http://db-engines.com/en/system/JustOneDB",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Postgres-XL",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"http://www.postgres-xl.org/",
+    "Details":"http://db-engines.com/en/system/Postgres-XL",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"Valentina Server",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.valentina-db.net",
+    "Details":"http://db-engines.com/en/system/Valentina+Server",
+    "Type":"Relational DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  }
+]

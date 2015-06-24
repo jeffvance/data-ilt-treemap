@@ -1,0 +1,162 @@
+[
+  {
+    "Name":"Caché",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.intersystems.com/cache/index.html",
+    "Details":"http://db-engines.com/en/system/Cach%C3%A9",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":2.38,
+    "size":239
+  },
+  {
+    "Name":"Db4o",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.db4o.com/",
+    "Details":"http://db-engines.com/en/system/Db4o",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":2.08,
+    "size":209
+  },
+  {
+    "Name":"Versant Object Database",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.versant.com/products/versant-object-database",
+    "Details":"http://db-engines.com/en/system/Versant+Object+Database",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":1.58,
+    "size":159
+  },
+  {
+    "Name":"ObjectStore",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.objectstore.com",
+    "Details":"http://db-engines.com/en/system/ObjectStore",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":1.1,
+    "size":111
+  },
+  {
+    "Name":"Objectivity/DB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.objectivity.com/­products/­objectivitydb",
+    "Details":"http://db-engines.com/en/system/Objectivity%2FDB",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.67,
+    "size":68
+  },
+  {
+    "Name":"ObjectDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.objectdb.com",
+    "Details":"http://db-engines.com/en/system/ObjectDB",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.36,
+    "size":37
+  },
+  {
+    "Name":"Perst",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.mcobject.com/­perst",
+    "Details":"http://db-engines.com/en/system/Perst",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.36,
+    "size":37
+  },
+  {
+    "Name":"GemStone/S",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"gemtalksystems.com",
+    "Details":"http://db-engines.com/en/system/GemStone/S",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.33,
+    "size":34
+  },
+  {
+    "Name":"Eloquera",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.eloquera.com",
+    "Details":"http://db-engines.com/en/system/Eloquera",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.04,
+    "size":5
+  },
+  {
+    "Name":"Jade",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.jade.co.nz/jade/",
+    "Details":"http://db-engines.com/en/system/Jade",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.03,
+    "size":4
+  },
+  {
+    "Name":"Siaqodb",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"siaqodb.com",
+    "Details":"http://db-engines.com/en/system/Siaqodb",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.03,
+    "size":4
+  },
+  {
+    "Name":"Versant FastObjects",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.actian.com/products/operational-databases/versant/",
+    "Details":"http://db-engines.com/en/system/Versant+FastObjects",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.02,
+    "size":3
+  },
+  {
+    "Name":"Starcounter",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"www.starcounter.com",
+    "Details":"http://db-engines.com/en/system/Starcounter",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0.01,
+    "size":2
+  },
+  {
+    "Name":"OrigoDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"origodb.com",
+    "Details":"http://db-engines.com/en/system/OrigoDB",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"VelocityDB",
+    "DBaaS":"no",
+    "License":"Commercial",
+    "Web-site":"http://www.velocitydb.com/",
+    "Details":"http://db-engines.com/en/system/VelocityDB",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  },
+  {
+    "Name":"WakandaDB",
+    "DBaaS":"no",
+    "License":"Open Source",
+    "Web-site":"www.wakanda.org",
+    "Details":"http://db-engines.com/en/system/WakandaDB",
+    "Type":"Object oriented DBMS",
+    "DB-engines-Score":0,
+    "size":1
+  }
+]
