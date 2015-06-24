@@ -9,7 +9,9 @@
 
  <script type="text/javascript">
 
-$(function(){
+// add/remove "active" class to clicked nav link -- see also css for styling
+// on nav links with the active class
+$(function() {
     $('#nav a').click(function() {
         $('#nav .active').removeClass('active'); // remove active class
         $(this).addClass('active'); // add active class to the clicked link
