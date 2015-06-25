@@ -115,7 +115,7 @@
     "License":"Open Source",
     "Website":"lucene.apache.org/­solr",
     "Details":"http://db-engines.com/en/system/Solr",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":82.93,
     "Size":8294
   },
@@ -135,7 +135,7 @@
     "License":"Open Source",
     "Website":"www.elasticsearch.org",
     "Details":"http://db-engines.com/en/system/Elasticsearch",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":64.83,
     "Size":6484
   },
@@ -175,7 +175,7 @@
     "License":"Commercial",
     "Website":"www.splunk.com",
     "Details":"http://db-engines.com/en/system/Splunk",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":40.72,
     "Size":4073
   },
@@ -395,7 +395,7 @@
     "License":"Commercial",
     "Website":"www.marklogic.com",
     "Details":"http://db-engines.com/en/system/MarkLogic",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":9.9,
     "Size":991
   },
@@ -405,7 +405,7 @@
     "License":"Open Source",
     "Website":"sphinxsearch.com",
     "Details":"http://db-engines.com/en/system/Sphinx",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":9.8,
     "Size":981
   },
@@ -425,7 +425,7 @@
     "License":"Commercial",
     "Website":"www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html",
     "Details":"http://db-engines.com/en/system/Endeca",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":8.53,
     "Size":854
   },
@@ -635,7 +635,7 @@
     "License":"Commercial",
     "Website":"www.google.com/­enterprise/­search/­campaigns/­gsa7.html",
     "Details":"http://db-engines.com/en/system/Google+Search+Appliance",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":3.7,
     "Size":371
   },
@@ -1395,7 +1395,7 @@
     "License":"Commercial",
     "Website":"azure.microsoft.com/­en-us/­services/­search",
     "Details":"http://db-engines.com/en/system/Microsoft+Azure+Search",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.74,
     "Size":75
   },
@@ -1525,7 +1525,7 @@
     "License":"Open Source",
     "Website":"xapian.org",
     "Details":"http://db-engines.com/en/system/Xapian",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.55,
     "Size":56
   },
@@ -1785,7 +1785,7 @@
     "License":"Commercial",
     "Website":"indica.nl",
     "Details":"http://db-engines.com/en/system/Indica",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.3,
     "Size":31
   },
@@ -1965,7 +1965,7 @@
     "License":"Open Source",
     "Website":"www.compass-project.org",
     "Details":"http://db-engines.com/en/system/Compass",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.21,
     "Size":22
   },
@@ -2025,7 +2025,7 @@
     "License":"Open Source",
     "Website":"crate.io",
     "Details":"http://db-engines.com/en/system/Crate.IO",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.17,
     "Size":18
   },
@@ -2255,7 +2255,7 @@
     "License":"Commercial",
     "Website":"www.searchblox.com",
     "Details":"http://db-engines.com/en/system/SearchBlox",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.08,
     "Size":9
   },
@@ -2445,7 +2445,7 @@
     "License":"Commercial",
     "Website":"srch2.com",
     "Details":"http://db-engines.com/en/system/Srch²",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0.01,
     "Size":2
   },
@@ -2615,7 +2615,7 @@
     "License":"Commercial",
     "Website":"www.dbsight.net",
     "Details":"http://db-engines.com/en/system/DBSight",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0,
     "Size":1
   },
@@ -2675,7 +2675,7 @@
     "License":"Commercial",
     "Website":"http://www.exorbyte.com/",
     "Details":"http://db-engines.com/en/system/Exorbyte",
-    "Type":"Search engine",
+    "Type":"Search Engine",
     "Score":0,
     "Size":1
   },
