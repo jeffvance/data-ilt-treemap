@@ -15,6 +15,7 @@ body {
   background: #ccc;
   height: 80px;
   padding-left: 10px;
+  width: 100vw;
 }
 
 #header h1, #header h2, #header h3 {
