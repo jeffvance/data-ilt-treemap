@@ -11,41 +11,11 @@
    <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.dataTables.js"></script>
 
    <script type="text/javascript" language="javascript" class="init">
-
-      $(document).ready(function() {
-         $('#main-tbl').dataTable( {
-            "ajax": {
-               "url": "raw-data/raw-data.json",
-               "dataSrc": ""
-            },
-
-            "columns": [ //json key names, case-sensitive (no dashes)
-               { "data": "Name" },
-               { "data": "DBaaS" },
-               { "data": "License" },
-               { "data": "Website" },
-               { "data": "Details" },
-               { "data": "Type" },
-               { "data": "Score" }
-            ],
-
-            "columnDefs": [
-               {
-                 "targets": "url-content", //classname
-                 "render": function(data,type,row,meta) {
-                      if (data.length == 0) return data;
-                      if (! data.startsWith('http')) data='http://'+data;
-                      var name=data.split('/').pop(); //last word if '/' in url
-                      return '<a href="'+data+'"\>'+name+'</a\>';
-                 }
-               }],
-      
-            "lengthMenu": [[-1, 10, 20, 50, 100], ["All", 10, 20, 50, 100]]
-    
-          });
-      });
-
+      //must set this global JS variable before invoking the dt-subset.js file
+      DT_JSON_FILE='raw-data/raw-data.json';
    </script>
+
+   <script type="text/javascript" language="javascript" src="js/dt-subset.js"></script>
 </head>
 
 <body class="dt-example">
