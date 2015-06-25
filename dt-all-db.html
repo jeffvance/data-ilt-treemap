@@ -7,16 +7,13 @@
    <title>All Databases</title>
    <link rel="stylesheet" type="text/css" href="js/DataTables-1.10.7/media/css/jquery.dataTables.css">
    
-   <style type="text/css" class="init">
-
-   </style>
    <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.js"></script>
    <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.dataTables.js"></script>
 
    <script type="text/javascript" language="javascript" class="init">
 
       $(document).ready(function() {
-         $('#all-dbs').dataTable( {
+         $('#main-tbl').dataTable( {
             "ajax": {
                "url": "raw-data/raw-data.json",
                "dataSrc": ""
@@ -55,7 +52,7 @@
    <div class="container">
       <section>
          <h1>All Databases</span></h1>
-         <table id="all-dbs" class="display compact" cellspacing="0" width="100%">
+         <table id="main-tbl" class="display compact" cellspacing="0" width="100%">
             <thead>
                     <tr>
                         <th>Name</th>
