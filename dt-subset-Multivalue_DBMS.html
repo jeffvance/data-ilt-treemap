@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="utf-8">
+
+   <title>Multi-value Databases</title>
+   <link rel="stylesheet" type="text/css" href="js/DataTables-1.10.7/media/css/jquery.dataTables.css">
+   
+   <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.js"></script>
+   <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.dataTables.js"></script>
+
+   <script type="text/javascript" language="javascript" class="init">
+      //must set this global JS variable before invoking the dt-subset.js file
+      DT_JSON_FILE='raw-data/subset_Multivalue_DBMS.json';
+   </script>
+
+   <script type="text/javascript" language="javascript" src="js/dt-subset.js"></script>
+</head>
+
+<body class="dt-example">
+   <div class="container">
+      <section>
+         <h1>Multi-value Databases</span></h1>
+         <table id="main-tbl" class="display compact" cellspacing="0" width="100%">
+            <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>DBaaS</th>
+                        <th>License</th>
+                        <th class="url-content">Website</th>
+                        <th class="url-content">Details</th>
+                        <th>Type</th>
+                        <th>DB-Engines<br>Score</th>
+                    </tr>
+                </thead>
+ 
+                <tfoot>
+                    <tr>
+                        <th>Name</th>
+                        <th>DBaaS</th>
+                        <th>License</th>
+                        <th>Website</th>
+                        <th>Details</th>
+                        <th>Type</th>
+                        <th>DB-Engines<br>Score</th>
+                    </tr>
+                </tfoot>
+         </table>
+
+      </section>   
+</body>
+
+</html>
