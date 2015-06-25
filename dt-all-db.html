@@ -38,8 +38,9 @@
                  "targets": "url-content", //classname
                  "render": function(data,type,row,meta) {
                       if (data.length == 0) return data;
+                      if (! data.startsWith('http')) data='http://'+data 
                       var name=data.split('/').pop(); //last word if '/' in url
-                      return '<a href="'+data+'">'+name+'</a>';
+                      return '<a href="'+data+'"\>'+name+'</a\>';
                  }
                }],
       
