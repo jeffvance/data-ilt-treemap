@@ -67,6 +67,10 @@ nav ul {
   padding: 0;
 }
 
+nav ul ul {
+  padding: 12px;
+}
+
 nav a {
   color: darkgreen;
   text-decoration: none;
