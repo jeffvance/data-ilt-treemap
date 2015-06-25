@@ -3,160 +3,160 @@
     "Name":"Solr",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"lucene.apache.org/­solr",
+    "Website":"lucene.apache.org/­solr",
     "Details":"http://db-engines.com/en/system/Solr",
     "Type":"Search engine",
-    "DB-engines-Score":82.93,
-    "size":8294
+    "Score":82.93,
+    "Size":8294
   },
   {
     "Name":"Elasticsearch",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.elasticsearch.org",
+    "Website":"www.elasticsearch.org",
     "Details":"http://db-engines.com/en/system/Elasticsearch",
     "Type":"Search engine",
-    "DB-engines-Score":64.83,
-    "size":6484
+    "Score":64.83,
+    "Size":6484
   },
   {
     "Name":"Splunk",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.splunk.com",
+    "Website":"www.splunk.com",
     "Details":"http://db-engines.com/en/system/Splunk",
     "Type":"Search engine",
-    "DB-engines-Score":40.72,
-    "size":4073
+    "Score":40.72,
+    "Size":4073
   },
   {
     "Name":"MarkLogic",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.marklogic.com",
+    "Website":"www.marklogic.com",
     "Details":"http://db-engines.com/en/system/MarkLogic",
     "Type":"Search engine",
-    "DB-engines-Score":9.9,
-    "size":991
+    "Score":9.9,
+    "Size":991
   },
   {
     "Name":"Sphinx",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"sphinxsearch.com",
+    "Website":"sphinxsearch.com",
     "Details":"http://db-engines.com/en/system/Sphinx",
     "Type":"Search engine",
-    "DB-engines-Score":9.8,
-    "size":981
+    "Score":9.8,
+    "Size":981
   },
   {
     "Name":"Endeca",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html",
+    "Website":"www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html",
     "Details":"http://db-engines.com/en/system/Endeca",
     "Type":"Search engine",
-    "DB-engines-Score":8.53,
-    "size":854
+    "Score":8.53,
+    "Size":854
   },
   {
     "Name":"Google Search Appliance",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.google.com/­enterprise/­search/­campaigns/­gsa7.html",
+    "Website":"www.google.com/­enterprise/­search/­campaigns/­gsa7.html",
     "Details":"http://db-engines.com/en/system/Google+Search+Appliance",
     "Type":"Search engine",
-    "DB-engines-Score":3.7,
-    "size":371
+    "Score":3.7,
+    "Size":371
   },
   {
     "Name":"Microsoft Azure Search",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"azure.microsoft.com/­en-us/­services/­search",
+    "Website":"azure.microsoft.com/­en-us/­services/­search",
     "Details":"http://db-engines.com/en/system/Microsoft+Azure+Search",
     "Type":"Search engine",
-    "DB-engines-Score":0.74,
-    "size":75
+    "Score":0.74,
+    "Size":75
   },
   {
     "Name":"Xapian",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"xapian.org",
+    "Website":"xapian.org",
     "Details":"http://db-engines.com/en/system/Xapian",
     "Type":"Search engine",
-    "DB-engines-Score":0.55,
-    "size":56
+    "Score":0.55,
+    "Size":56
   },
   {
     "Name":"Indica",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"indica.nl",
+    "Website":"indica.nl",
     "Details":"http://db-engines.com/en/system/Indica",
     "Type":"Search engine",
-    "DB-engines-Score":0.3,
-    "size":31
+    "Score":0.3,
+    "Size":31
   },
   {
     "Name":"Compass",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.compass-project.org",
+    "Website":"www.compass-project.org",
     "Details":"http://db-engines.com/en/system/Compass",
     "Type":"Search engine",
-    "DB-engines-Score":0.21,
-    "size":22
+    "Score":0.21,
+    "Size":22
   },
   {
     "Name":"Crate.IO",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"crate.io",
+    "Website":"crate.io",
     "Details":"http://db-engines.com/en/system/Crate.IO",
     "Type":"Search engine",
-    "DB-engines-Score":0.17,
-    "size":18
+    "Score":0.17,
+    "Size":18
   },
   {
     "Name":"SearchBlox",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.searchblox.com",
+    "Website":"www.searchblox.com",
     "Details":"http://db-engines.com/en/system/SearchBlox",
     "Type":"Search engine",
-    "DB-engines-Score":0.08,
-    "size":9
+    "Score":0.08,
+    "Size":9
   },
   {
     "Name":"Srch²",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"srch2.com",
+    "Website":"srch2.com",
     "Details":"http://db-engines.com/en/system/Srch²",
     "Type":"Search engine",
-    "DB-engines-Score":0.01,
-    "size":2
+    "Score":0.01,
+    "Size":2
   },
   {
     "Name":"DBSight",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.dbsight.net",
+    "Website":"www.dbsight.net",
     "Details":"http://db-engines.com/en/system/DBSight",
     "Type":"Search engine",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Exorbyte",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://www.exorbyte.com/",
+    "Website":"http://www.exorbyte.com/",
     "Details":"http://db-engines.com/en/system/Exorbyte",
     "Type":"Search engine",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   }
 ]

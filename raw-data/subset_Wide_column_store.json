@@ -3,50 +3,50 @@
     "Name":"Cassandra",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"cassandra.apache.org",
+    "Website":"cassandra.apache.org",
     "Details":"http://db-engines.com/en/system/Cassandra",
     "Type":"Wide column store",
-    "DB-engines-Score":106.55,
-    "size":10656
+    "Score":106.55,
+    "Size":10656
   },
   {
     "Name":"HBase",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"hbase.apache.org",
+    "Website":"hbase.apache.org",
     "Details":"http://db-engines.com/en/system/HBase",
     "Type":"Wide column store",
-    "DB-engines-Score":61.7,
-    "size":6171
+    "Score":61.7,
+    "Size":6171
   },
   {
     "Name":"Accumulo",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://db-engines.com/en/system/Accumulo",
+    "Website":"http://db-engines.com/en/system/Accumulo",
     "Details":"http://db-engines.com/en/system/Accumulo",
     "Type":"Wide column store",
-    "DB-engines-Score":3.07,
-    "size":308
+    "Score":3.07,
+    "Size":308
   },
   {
     "Name":"Hypertable",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"hypertable.org",
+    "Website":"hypertable.org",
     "Details":"http://db-engines.com/en/system/Hypertable",
     "Type":"Wide column store",
-    "DB-engines-Score":0.62,
-    "size":63
+    "Score":0.62,
+    "Size":63
   },
   {
     "Name":"Sqrrl",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"sqrrl.com",
+    "Website":"sqrrl.com",
     "Details":"http://db-engines.com/en/system/Sqrrl",
     "Type":"Wide column store",
-    "DB-engines-Score":0.3,
-    "size":31
+    "Score":0.3,
+    "Size":31
   }
 ]

@@ -3,500 +3,500 @@
     "Name":"Redis",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"redis.io",
+    "Website":"redis.io",
     "Details":"http://db-engines.com/en/system/Redis",
     "Type":"Key-value store",
-    "DB-engines-Score":94.73,
-    "size":9474
+    "Score":94.73,
+    "Size":9474
   },
   {
     "Name":"Memcached",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.memcached.org",
+    "Website":"www.memcached.org",
     "Details":"http://db-engines.com/en/system/Memcached",
     "Type":"Key-value store",
-    "DB-engines-Score":33.11,
-    "size":3312
+    "Score":33.11,
+    "Size":3312
   },
   {
     "Name":"Amazon DynamoDB",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"aws.amazon.com/­dynamodb",
+    "Website":"aws.amazon.com/­dynamodb",
     "Details":"http://db-engines.com/en/system/DynamoDB",
     "Type":"Key-value store",
-    "DB-engines-Score":14.87,
-    "size":1488
+    "Score":14.87,
+    "Size":1488
   },
   {
     "Name":"Riak",
     "DBaaS":"",
     "License":"Open Source",
-    "Web-site":"basho.com/­products/­riak-overview",
+    "Website":"basho.com/­products/­riak-overview",
     "Details":"http://db-engines.com/en/system/Riak",
     "Type":"Key-value store",
-    "DB-engines-Score":12.89,
-    "size":1290
+    "Score":12.89,
+    "Size":1290
   },
   {
     "Name":"Ehcache",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"",
+    "Website":"",
     "Details":"http://db-engines.com/en/system/Ehcache",
     "Type":"Key-value store",
-    "DB-engines-Score":7.92,
-    "size":793
+    "Score":7.92,
+    "Size":793
   },
   {
     "Name":"Hazelcast",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"",
+    "Website":"",
     "Details":"http://db-engines.com/en/system/Hazelcast",
     "Type":"Key-value store",
-    "DB-engines-Score":5.82,
-    "size":583
+    "Score":5.82,
+    "Size":583
   },
   {
     "Name":"Berkeley DB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.oracle.com/technetwork/products/berkeleydb/",
+    "Website":"http://www.oracle.com/technetwork/products/berkeleydb/",
     "Details":"http://db-engines.com/en/system/Berkeley+DB",
     "Type":"Key-value store",
-    "DB-engines-Score":3.6,
-    "size":361
+    "Score":3.6,
+    "Size":361
   },
   {
     "Name":"Oracle Coherence",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.oracle.com/­technetwork/­middleware/­coherence/­overview/­index.html",
+    "Website":"www.oracle.com/­technetwork/­middleware/­coherence/­overview/­index.html",
     "Details":"http://db-engines.com/en/system/Oracle+Coherence",
     "Type":"Key-value store",
-    "DB-engines-Score":3.3,
-    "size":331
+    "Score":3.3,
+    "Size":331
   },
   {
     "Name":"Amazon SimpleDB",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"aws.amazon.com/­simpledb",
+    "Website":"aws.amazon.com/­simpledb",
     "Details":"http://db-engines.com/en/system/Amazon+SimpleDB",
     "Type":"Key-value store",
-    "DB-engines-Score":2.96,
-    "size":297
+    "Score":2.96,
+    "Size":297
   },
   {
     "Name":"Aerospike",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.aerospike.com",
+    "Website":"www.aerospike.com",
     "Details":"http://db-engines.com/en/system/Aerospike",
     "Type":"Key-value store",
-    "DB-engines-Score":2.42,
-    "size":243
+    "Score":2.42,
+    "Size":243
   },
   {
     "Name":"Oracle NoSQL",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.oracle.com/technetwork/products/nosqldb/",
+    "Website":"http://www.oracle.com/technetwork/products/nosqldb/",
     "Details":"http://db-engines.com/en/system/Oracle+NoSQL",
     "Type":"Key-value store",
-    "DB-engines-Score":2.13,
-    "size":214
+    "Score":2.13,
+    "Size":214
   },
   {
     "Name":"Infinispan",
     "DBaaS":"",
     "License":"Open Source",
-    "Web-site":"www.jboss.org/­infinispan",
+    "Website":"www.jboss.org/­infinispan",
     "Details":"http://db-engines.com/en/system/Infinispan",
     "Type":"Key-value store",
-    "DB-engines-Score":1.96,
-    "size":197
+    "Score":1.96,
+    "Size":197
   },
   {
     "Name":"LevelDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"code.google.com/­p/­leveldb",
+    "Website":"code.google.com/­p/­leveldb",
     "Details":"http://db-engines.com/en/system/LevelDB",
     "Type":"Key-value store",
-    "DB-engines-Score":1.47,
-    "size":148
+    "Score":1.47,
+    "Size":148
   },
   {
     "Name":"FoundationDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"foundationdb.com",
+    "Website":"foundationdb.com",
     "Details":"http://db-engines.com/en/system/FoundationDB",
     "Type":"Key-value store",
-    "DB-engines-Score":1.13,
-    "size":114
+    "Score":1.13,
+    "Size":114
   },
   {
     "Name":"ArangoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.arangodb.com",
+    "Website":"www.arangodb.com",
     "Details":"http://db-engines.com/en/system/ArangoDB",
     "Type":"Key-value store",
-    "DB-engines-Score":1.1,
-    "size":111
+    "Score":1.1,
+    "Size":111
   },
   {
     "Name":"GridGain",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.gridgain.com",
+    "Website":"www.gridgain.com",
     "Details":"http://db-engines.com/en/system/GridGain",
     "Type":"Key-value store",
-    "DB-engines-Score":0.85,
-    "size":86
+    "Score":0.85,
+    "Size":86
   },
   {
     "Name":"ZODB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.zodb.org",
+    "Website":"www.zodb.org",
     "Details":"http://db-engines.com/en/system/ZODB",
     "Type":"Key-value store",
-    "DB-engines-Score":0.65,
-    "size":66
+    "Score":0.65,
+    "Size":66
   },
   {
     "Name":"GT.M",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.fisglobal.com/­products-technologyplatforms-gtm",
+    "Website":"www.fisglobal.com/­products-technologyplatforms-gtm",
     "Details":"http://db-engines.com/en/system/GT.M",
     "Type":"Key-value store",
-    "DB-engines-Score":0.61,
-    "size":62
+    "Score":0.61,
+    "Size":62
   },
   {
     "Name":"Tokyo Cabinet",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"fallabs.com/­tokyocabinet",
+    "Website":"fallabs.com/­tokyocabinet",
     "Details":"http://db-engines.com/en/system/Tokyo+Cabinet",
     "Type":"Key-value store",
-    "DB-engines-Score":0.55,
-    "size":56
+    "Score":0.55,
+    "Size":56
   },
   {
     "Name":"NCache",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.alachisoft.com/­ncache",
+    "Website":"www.alachisoft.com/­ncache",
     "Details":"http://db-engines.com/en/system/NCache",
     "Type":"Key-value store",
-    "DB-engines-Score":0.43,
-    "size":44
+    "Score":0.43,
+    "Size":44
   },
   {
     "Name":"WebSphere eXtreme Scale",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.ibm.com/­software/­products/­en/­websphere-extreme-scale",
+    "Website":"www.ibm.com/­software/­products/­en/­websphere-extreme-scale",
     "Details":"http://db-engines.com/en/system/WebSphere+eXtreme+Scale",
     "Type":"Key-value store",
-    "DB-engines-Score":0.39,
-    "size":40
+    "Score":0.39,
+    "Size":40
   },
   {
     "Name":"WiredTiger",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"wiredtiger.com",
+    "Website":"wiredtiger.com",
     "Details":"http://db-engines.com/en/system/WiredTiger",
     "Type":"Key-value store",
-    "DB-engines-Score":0.37,
-    "size":38
+    "Score":0.37,
+    "Size":38
   },
   {
     "Name":"Sqrrl",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"sqrrl.com",
+    "Website":"sqrrl.com",
     "Details":"http://db-engines.com/en/system/Sqrrl",
     "Type":"Key-value store",
-    "DB-engines-Score":0.3,
-    "size":31
+    "Score":0.3,
+    "Size":31
   },
   {
     "Name":"Tokyo Tyrant",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"fallabs.com/­tokyotyrant",
+    "Website":"fallabs.com/­tokyotyrant",
     "Details":"http://db-engines.com/en/system/Tokyo+Tyrant",
     "Type":"Key-value store",
-    "DB-engines-Score":0.29,
-    "size":30
+    "Score":0.29,
+    "Size":30
   },
   {
     "Name":"XAP",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"docs.gigaspaces.com",
+    "Website":"docs.gigaspaces.com",
     "Details":"http://db-engines.com/en/system/XAP",
     "Type":"Key-value store",
-    "DB-engines-Score":0.27,
-    "size":28
+    "Score":0.27,
+    "Size":28
   },
   {
     "Name":"Project Voldemort",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.project-voldemort.com",
+    "Website":"www.project-voldemort.com",
     "Details":"http://db-engines.com/en/system/Project+Voldemort",
     "Type":"Key-value store",
-    "DB-engines-Score":0.26,
-    "size":27
+    "Score":0.26,
+    "Size":27
   },
   {
     "Name":"Hibari",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"hibari.github.com/­hibari-doc",
+    "Website":"hibari.github.com/­hibari-doc",
     "Details":"http://db-engines.com/en/system/Hibari",
     "Type":"Key-value store",
-    "DB-engines-Score":0.22,
-    "size":23
+    "Score":0.22,
+    "Size":23
   },
   {
     "Name":"RocksDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"rocksdb.org",
+    "Website":"rocksdb.org",
     "Details":"http://db-engines.com/en/system/RocksDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0.21,
-    "size":22
+    "Score":0.21,
+    "Size":22
   },
   {
     "Name":"MapDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.mapdb.org",
+    "Website":"www.mapdb.org",
     "Details":"http://db-engines.com/en/system/MapDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0.16,
-    "size":17
+    "Score":0.16,
+    "Size":17
   },
   {
     "Name":"Scalaris",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"code.google.com/­p/­scalaris",
+    "Website":"code.google.com/­p/­scalaris",
     "Details":"http://db-engines.com/en/system/Scalaris",
     "Type":"Key-value store",
-    "DB-engines-Score":0.13,
-    "size":14
+    "Score":0.13,
+    "Size":14
   },
   {
     "Name":"STSdb",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"stsdb.com",
+    "Website":"stsdb.com",
     "Details":"http://db-engines.com/en/system/STSdb",
     "Type":"Key-value store",
-    "DB-engines-Score":0.13,
-    "size":14
+    "Score":0.13,
+    "Size":14
   },
   {
     "Name":"Kyoto Cabinet",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"fallabs.com/­kyotocabinet",
+    "Website":"fallabs.com/­kyotocabinet",
     "Details":"http://db-engines.com/en/system/Kyoto+Cabinet",
     "Type":"Key-value store",
-    "DB-engines-Score":0.09,
-    "size":10
+    "Score":0.09,
+    "Size":10
   },
   {
     "Name":"Elliptics",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"reverbrain.com/­elliptics",
+    "Website":"reverbrain.com/­elliptics",
     "Details":"http://db-engines.com/en/system/Elliptics",
     "Type":"Key-value store",
-    "DB-engines-Score":0.08,
-    "size":9
+    "Score":0.08,
+    "Size":9
   },
   {
     "Name":"HyperDex",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"hyperdex.org",
+    "Website":"hyperdex.org",
     "Details":"http://db-engines.com/en/system/HyperDex",
     "Type":"Key-value store",
-    "DB-engines-Score":0.06,
-    "size":7
+    "Score":0.06,
+    "Size":7
   },
   {
     "Name":"Hamsterdb",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"hamsterdb.com",
+    "Website":"hamsterdb.com",
     "Details":"http://db-engines.com/en/system/Hamsterdb",
     "Type":"Key-value store",
-    "DB-engines-Score":0.03,
-    "size":4
+    "Score":0.03,
+    "Size":4
   },
   {
     "Name":"ScaleOut StateServer",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://www.scaleoutsoftware.com/products/scaleout-stateserver/",
+    "Website":"http://www.scaleoutsoftware.com/products/scaleout-stateserver/",
     "Details":"http://db-engines.com/en/system/ScaleOut+StateServer",
     "Type":"Key-value store",
-    "DB-engines-Score":0.02,
-    "size":3
+    "Score":0.02,
+    "Size":3
   },
   {
     "Name":"Bangdb",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.iqlect.com/product.php",
+    "Website":"http://www.iqlect.com/product.php",
     "Details":"http://db-engines.com/en/system/Bangdb",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"BergDB",
     "DBaaS":"",
     "License":"Open Source",
-    "Web-site":"bergdb.com",
+    "Website":"bergdb.com",
     "Details":"http://db-engines.com/en/system/BergDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"CodernityDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://labs.codernity.com/codernitydb/",
+    "Website":"http://labs.codernity.com/codernitydb/",
     "Details":"http://db-engines.com/en/system/CodernityDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"CortexDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.cortex-ag.com/­cortexdoku/­cms.php",
+    "Website":"www.cortex-ag.com/­cortexdoku/­cms.php",
     "Details":"http://db-engines.com/en/system/CortexDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"GlobalsDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://globalsdb.org/",
+    "Website":"http://globalsdb.org/",
     "Details":"http://db-engines.com/en/system/GlobalsDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"HyperLevelDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"hyperdex.org/­performance/­leveldb",
+    "Website":"hyperdex.org/­performance/­leveldb",
     "Details":"http://db-engines.com/en/system/HyperLevelDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Kyoto Tycoon",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://fallabs.com/kyototycoon/",
+    "Website":"http://fallabs.com/kyototycoon/",
     "Details":"http://db-engines.com/en/system/Kyoto+Tycoon",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"LedisDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"ledisdb.com",
+    "Website":"ledisdb.com",
     "Details":"http://db-engines.com/en/system/LedisDB",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"LightCloud",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://opensource.plurk.com/LightCloud/",
+    "Website":"http://opensource.plurk.com/LightCloud/",
     "Details":"http://db-engines.com/en/system/LightCloud",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Nanolat",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://nanolat.com/index/0-2",
+    "Website":"http://nanolat.com/index/0-2",
     "Details":"http://db-engines.com/en/system/Nanolat",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Quasardb",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.quasardb.net",
+    "Website":"www.quasardb.net",
     "Details":"http://db-engines.com/en/system/Quasardb",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Resin Cache",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.caucho.com/",
+    "Website":"http://www.caucho.com/",
     "Details":"http://db-engines.com/en/system/Resin+Cache",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Tarantool",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://tarantool.org/",
+    "Website":"http://tarantool.org/",
     "Details":"http://db-engines.com/en/system/Tarantool",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"TomP2P",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://tomp2p.net/",
+    "Website":"http://tomp2p.net/",
     "Details":"http://db-engines.com/en/system/TomP2P",
     "Type":"Key-value store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   }
 ]

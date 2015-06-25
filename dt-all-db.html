@@ -12,39 +12,42 @@
    </style>
    <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.js"></script>
    <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.dataTables.js"></script>
+
    <script type="text/javascript" language="javascript" class="init">
 
       $(document).ready(function() {
-         $('#example').dataTable( {
+         $('#all-dbs').dataTable( {
             "ajax": {
                "url": "raw-data/raw-data.json",
                "dataSrc": ""
             },
-            "columns": [
-               { "data": "name" },
-               { "data": "website" },
-               { "data": "details" },
-               { "data": "size" },
-               { "data": "type" }
+
+            "columns": [ //json key names, case-sensitive (no dashes)
+               { "data": "Name" },
+               { "data": "DBaaS" },
+               { "data": "License" },
+               { "data": "Website" },
+               { "data": "Details" },
+               { "data": "Type" },
+               { "data": "Score" },
+               { "data": "Size" }
             ],
+
+            "columnDefs": [
+               {
+                 "targets": "url-content", //classname
+                 "render": function(data,type,row,meta) {
+                      if (data.length == 0) return data;
+                      var name=data.split('/').pop(); //last word if '/' in url
+                      return '<a href="'+data+'">'+name+'</a>';
+                 }
+               }],
       
-            "createdRow": function ( row, data, index ) {
-                   $('td', row).eq(1).wrap(function() {
-                         var link = $('<a/>');
-                     var text = $(this).text();
-                     if(!text.startsWith("http")){
-                        text = "http://" + text;
-                     }
-                          link.attr('href',text);
-                          return link;
-                  });
-            
-            
-            },
             "lengthMenu": [[-1, 10, 20, 50, 100], ["All", 10, 20, 50, 100]]
     
           });
-      } );
+      });
+
    </script>
 </head>
 
@@ -52,24 +55,30 @@
    <div class="container">
       <section>
          <h1>All Databases</span></h1>
-         <table id="example" class="display compact" cellspacing="0" width="100%">
+         <table id="all-dbs" class="display compact" cellspacing="0" width="100%">
             <thead>
                     <tr>
                         <th>Name</th>
-                        <th>Website</th>
-                        <th>Details</th>
-                        <th>DB-Engines "Score"</th>
+                        <th>DBaaS</th>
+                        <th>License</th>
+                        <th class="url-content">Website</th>
+                        <th class="url-content">Details</th>
                         <th>Type</th>
+                        <th>DB-Engines<br>Score</th>
+                        <th>Size</th>
                     </tr>
                 </thead>
  
                 <tfoot>
                     <tr>
                         <th>Name</th>
+                        <th>DBaaS</th>
+                        <th>License</th>
                         <th>Website</th>
                         <th>Details</th>
-                        <th>DB-Engines "Score"</th>
                         <th>Type</th>
+                        <th>DB-Engines<br>Score</th>
+                        <th>Size</th>
                     </tr>
                 </tfoot>
          </table>

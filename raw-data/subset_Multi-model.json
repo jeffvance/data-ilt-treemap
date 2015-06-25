@@ -3,150 +3,150 @@
     "Name":"Amazon DynamoDB",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"aws.amazon.com/­dynamodb",
+    "Website":"aws.amazon.com/­dynamodb",
     "Details":"http://db-engines.com/en/system/DynamoDB",
     "Type":"Multi-model",
-    "DB-engines-Score":14.87,
-    "size":1488
+    "Score":14.87,
+    "Size":1488
   },
   {
     "Name":"MarkLogic",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.marklogic.com",
+    "Website":"www.marklogic.com",
     "Details":"http://db-engines.com/en/system/MarkLogic",
     "Type":"Multi-model",
-    "DB-engines-Score":9.9,
-    "size":991
+    "Score":9.9,
+    "Size":991
   },
   {
     "Name":"OrientDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.orientdb.org/",
+    "Website":"http://www.orientdb.org/",
     "Details":"http://db-engines.com/en/system/OrientDB",
     "Type":"Multi-model",
-    "DB-engines-Score":3.99,
-    "size":400
+    "Score":3.99,
+    "Size":400
   },
   {
     "Name":"Virtuoso",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://virtuoso.openlinksw.com/",
+    "Website":"http://virtuoso.openlinksw.com/",
     "Details":"http://db-engines.com/en/system/Virtuoso",
     "Type":"Multi-model",
-    "DB-engines-Score":3.06,
-    "size":307
+    "Score":3.06,
+    "Size":307
   },
   {
     "Name":"FoundationDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"foundationdb.com",
+    "Website":"foundationdb.com",
     "Details":"http://db-engines.com/en/system/FoundationDB",
     "Type":"Multi-model",
-    "DB-engines-Score":1.13,
-    "size":114
+    "Score":1.13,
+    "Size":114
   },
   {
     "Name":"ArangoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.arangodb.com",
+    "Website":"www.arangodb.com",
     "Details":"http://db-engines.com/en/system/ArangoDB",
     "Type":"Multi-model",
-    "DB-engines-Score":1.1,
-    "size":111
+    "Score":1.1,
+    "Size":111
   },
   {
     "Name":"Kdb+",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"kx.com/­products.php",
+    "Website":"kx.com/­products.php",
     "Details":"http://db-engines.com/en/system/Kdb%2B",
     "Type":"Multi-model",
-    "DB-engines-Score":0.87,
-    "size":88
+    "Score":0.87,
+    "Size":88
   },
   {
     "Name":"Sqrrl",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"sqrrl.com",
+    "Website":"sqrrl.com",
     "Details":"http://db-engines.com/en/system/Sqrrl",
     "Type":"Multi-model",
-    "DB-engines-Score":0.3,
-    "size":31
+    "Score":0.3,
+    "Size":31
   },
   {
     "Name":"Crate.IO",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"crate.io",
+    "Website":"crate.io",
     "Details":"http://db-engines.com/en/system/Crate.IO",
     "Type":"Multi-model",
-    "DB-engines-Score":0.17,
-    "size":18
+    "Score":0.17,
+    "Size":18
   },
   {
     "Name":"GraphDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.ontotext.com/­products/­ontotext-graphdb",
+    "Website":"www.ontotext.com/­products/­ontotext-graphdb",
     "Details":"http://db-engines.com/en/system/GraphDB",
     "Type":"Multi-model",
-    "DB-engines-Score":0.12,
-    "size":13
+    "Score":0.12,
+    "Size":13
   },
   {
     "Name":"Amisa Server",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://www.amisalabs.com/",
+    "Website":"http://www.amisalabs.com/",
     "Details":"http://db-engines.com/en/system/Amisa+Server",
     "Type":"Multi-model",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Blazegraph",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"blazegraph.com",
+    "Website":"blazegraph.com",
     "Details":"http://db-engines.com/en/system/Blazegraph",
     "Type":"Multi-model",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"CortexDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.cortex-ag.com/­cortexdoku/­cms.php",
+    "Website":"www.cortex-ag.com/­cortexdoku/­cms.php",
     "Details":"http://db-engines.com/en/system/CortexDB",
     "Type":"Multi-model",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"GlobalsDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://globalsdb.org/",
+    "Website":"http://globalsdb.org/",
     "Details":"http://db-engines.com/en/system/GlobalsDB",
     "Type":"Multi-model",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"OrigoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"origodb.com",
+    "Website":"origodb.com",
     "Details":"http://db-engines.com/en/system/OrigoDB",
     "Type":"Multi-model",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   }
 ]

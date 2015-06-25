@@ -3,380 +3,380 @@
     "Name":"MongoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.mongodb.org",
+    "Website":"www.mongodb.org",
     "Details":"http://db-engines.com/en/system/MongoDB",
     "Type":"Document store",
-    "DB-engines-Score":277.32,
-    "size":27733
+    "Score":277.32,
+    "Size":27733
   },
   {
     "Name":"CouchDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"couchdb.apache.org",
+    "Website":"couchdb.apache.org",
     "Details":"http://db-engines.com/en/system/CouchDB",
     "Type":"Document store",
-    "DB-engines-Score":27.16,
-    "size":2717
+    "Score":27.16,
+    "Size":2717
   },
   {
     "Name":"Couchbase",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.couchbase.com",
+    "Website":"www.couchbase.com",
     "Details":"http://db-engines.com/en/system/Couchbase",
     "Type":"Document store",
-    "DB-engines-Score":25.24,
-    "size":2525
+    "Score":25.24,
+    "Size":2525
   },
   {
     "Name":"Amazon DynamoDB",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"aws.amazon.com/­dynamodb",
+    "Website":"aws.amazon.com/­dynamodb",
     "Details":"http://db-engines.com/en/system/DynamoDB",
     "Type":"Document store",
-    "DB-engines-Score":14.87,
-    "size":1488
+    "Score":14.87,
+    "Size":1488
   },
   {
     "Name":"MarkLogic",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.marklogic.com",
+    "Website":"www.marklogic.com",
     "Details":"http://db-engines.com/en/system/MarkLogic",
     "Type":"Document store",
-    "DB-engines-Score":9.9,
-    "size":991
+    "Score":9.9,
+    "Size":991
   },
   {
     "Name":"RavenDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"ravendb.net",
+    "Website":"ravendb.net",
     "Details":"http://db-engines.com/en/system/Sybase+IQ",
     "Type":"Document store",
-    "DB-engines-Score":6.46,
-    "size":647
+    "Score":6.46,
+    "Size":647
   },
   {
     "Name":"OrientDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.orientdb.org/",
+    "Website":"http://www.orientdb.org/",
     "Details":"http://db-engines.com/en/system/OrientDB",
     "Type":"Document store",
-    "DB-engines-Score":3.99,
-    "size":400
+    "Score":3.99,
+    "Size":400
   },
   {
     "Name":"GemFire",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://www.vmware.com/products/application-platform/vfabric-gemfire/overview.html",
+    "Website":"http://www.vmware.com/products/application-platform/vfabric-gemfire/overview.html",
     "Details":"http://db-engines.com/en/system/GemFire",
     "Type":"Document store",
-    "DB-engines-Score":3.91,
-    "size":392
+    "Score":3.91,
+    "Size":392
   },
   {
     "Name":"Cloudant",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"http://db-engines.com/en/system/Cloudant",
+    "Website":"http://db-engines.com/en/system/Cloudant",
     "Details":"http://db-engines.com/en/system/Cloudant",
     "Type":"Document store",
-    "DB-engines-Score":3.83,
-    "size":384
+    "Score":3.83,
+    "Size":384
   },
   {
     "Name":"RethinkDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.rethinkdb.com",
+    "Website":"www.rethinkdb.com",
     "Details":"http://db-engines.com/en/system/RethinkDB",
     "Type":"Document store",
-    "DB-engines-Score":2.05,
-    "size":206
+    "Score":2.05,
+    "Size":206
   },
   {
     "Name":"Datameer",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.datameer.com",
+    "Website":"www.datameer.com",
     "Details":"http://db-engines.com/en/system/Datameer",
     "Type":"Document store",
-    "DB-engines-Score":1.68,
-    "size":169
+    "Score":1.68,
+    "Size":169
   },
   {
     "Name":"Datomic",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.datomic.com",
+    "Website":"www.datomic.com",
     "Details":"http://db-engines.com/en/system/Datomic",
     "Type":"Document store",
-    "DB-engines-Score":1.46,
-    "size":147
+    "Score":1.46,
+    "Size":147
   },
   {
     "Name":"FoundationDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"foundationdb.com",
+    "Website":"foundationdb.com",
     "Details":"http://db-engines.com/en/system/FoundationDB",
     "Type":"Document store",
-    "DB-engines-Score":1.13,
-    "size":114
+    "Score":1.13,
+    "Size":114
   },
   {
     "Name":"ArangoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.arangodb.com",
+    "Website":"www.arangodb.com",
     "Details":"http://db-engines.com/en/system/ArangoDB",
     "Type":"Document store",
-    "DB-engines-Score":1.1,
-    "size":111
+    "Score":1.1,
+    "Size":111
   },
   {
     "Name":"Mnesia",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.erlang.org/­doc/­man/­mnesia.html",
+    "Website":"www.erlang.org/­doc/­man/­mnesia.html",
     "Details":"http://db-engines.com/en/system/Mnesia",
     "Type":"Document store",
-    "DB-engines-Score":0.98,
-    "size":99
+    "Score":0.98,
+    "Size":99
   },
   {
     "Name":"Microsoft Azure DocumentDB",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"azure.microsoft.com/­en-us/­services/­documentdb",
+    "Website":"azure.microsoft.com/­en-us/­services/­documentdb",
     "Details":"http://db-engines.com/en/system/Microsoft+Azure+DocumentDB",
     "Type":"Document store",
-    "DB-engines-Score":0.96,
-    "size":97
+    "Score":0.96,
+    "Size":97
   },
   {
     "Name":"PouchDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"pouchdb.com",
+    "Website":"pouchdb.com",
     "Details":"http://db-engines.com/en/system/PouchDB",
     "Type":"Document store",
-    "DB-engines-Score":0.89,
-    "size":90
+    "Score":0.89,
+    "Size":90
   },
   {
     "Name":"Google Cloud Datastore",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"developers.google.com/­datastore",
+    "Website":"developers.google.com/­datastore",
     "Details":"http://db-engines.com/en/system/Google+Cloud+Datastore",
     "Type":"Document store",
-    "DB-engines-Score":0.82,
-    "size":83
+    "Score":0.82,
+    "Size":83
   },
   {
     "Name":"CloudKit",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"getcloudkit.com",
+    "Website":"getcloudkit.com",
     "Details":"http://db-engines.com/en/system/CloudKit",
     "Type":"Document store",
-    "DB-engines-Score":0.52,
-    "size":53
+    "Score":0.52,
+    "Size":53
   },
   {
     "Name":"TokuMX",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"www.tokutek.com/­products/­tokumx-for-mongodb",
+    "Website":"www.tokutek.com/­products/­tokumx-for-mongodb",
     "Details":"http://db-engines.com/en/system/TokuMX",
     "Type":"Document store",
-    "DB-engines-Score":0.47,
-    "size":48
+    "Score":0.47,
+    "Size":48
   },
   {
     "Name":"Sqrrl",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"sqrrl.com",
+    "Website":"sqrrl.com",
     "Details":"http://db-engines.com/en/system/Sqrrl",
     "Type":"Document store",
-    "DB-engines-Score":0.3,
-    "size":31
+    "Score":0.3,
+    "Size":31
   },
   {
     "Name":"Clusterpoint",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.clusterpoint.com",
+    "Website":"www.clusterpoint.com",
     "Details":"http://db-engines.com/en/system/Clusterpoint",
     "Type":"Document store",
-    "DB-engines-Score":0.15,
-    "size":16
+    "Score":0.15,
+    "Size":16
   },
   {
     "Name":"Terrastore",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"code.google.com/­p/­terrastore",
+    "Website":"code.google.com/­p/­terrastore",
     "Details":"http://db-engines.com/en/system/Terrastore",
     "Type":"Document store",
-    "DB-engines-Score":0.08,
-    "size":9
+    "Score":0.08,
+    "Size":9
   },
   {
     "Name":"Amisa Server",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://www.amisalabs.com/",
+    "Website":"http://www.amisalabs.com/",
     "Details":"http://db-engines.com/en/system/Amisa+Server",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"CortexDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"www.cortex-ag.com/­cortexdoku/­cms.php",
+    "Website":"www.cortex-ag.com/­cortexdoku/­cms.php",
     "Details":"http://db-engines.com/en/system/CortexDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"DensoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://densodb.codeplex.com/",
+    "Website":"http://densodb.codeplex.com/",
     "Details":"http://db-engines.com/en/system/DensoDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Djondb",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://djondb.com/",
+    "Website":"http://djondb.com/",
     "Details":"http://db-engines.com/en/system/Djondb",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"EJDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://ejdb.org/",
+    "Website":"http://ejdb.org/",
     "Details":"http://db-engines.com/en/system/EJDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"FleetDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"https://github.com/mmcgrana/fleetdb",
+    "Website":"https://github.com/mmcgrana/fleetdb",
     "Details":"http://db-engines.com/en/system/FleetDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"GlobalsDB",
     "DBaaS":"no",
     "License":"Commercial",
-    "Web-site":"http://globalsdb.org/",
+    "Website":"http://globalsdb.org/",
     "Details":"http://db-engines.com/en/system/GlobalsDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"JasDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.oberasoftware.com/jasdb/",
+    "Website":"http://www.oberasoftware.com/jasdb/",
     "Details":"http://db-engines.com/en/system/JasDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"LokiJS",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"lokijs.org",
+    "Website":"lokijs.org",
     "Details":"http://db-engines.com/en/system/LokiJS",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"OrigoDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"origodb.com",
+    "Website":"origodb.com",
     "Details":"http://db-engines.com/en/system/OrigoDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"RaptorDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://raptordb.codeplex.com/",
+    "Website":"http://raptordb.codeplex.com/",
     "Details":"http://db-engines.com/en/system/RaptorDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"SenseiDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://senseidb.com/",
+    "Website":"http://senseidb.com/",
     "Details":"http://db-engines.com/en/system/SenseiDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"Sequoiadb",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.sequoiadb.com/",
+    "Website":"http://www.sequoiadb.com/",
     "Details":"http://db-engines.com/en/system/Sequoiadb",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"SisoDb",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"http://www.sisodb.com/",
+    "Website":"http://www.sisodb.com/",
     "Details":"http://db-engines.com/en/system/SisoDb",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   },
   {
     "Name":"WhiteDB",
     "DBaaS":"no",
     "License":"Open Source",
-    "Web-site":"whitedb.org",
+    "Website":"whitedb.org",
     "Details":"http://db-engines.com/en/system/WhiteDB",
     "Type":"Document store",
-    "DB-engines-Score":0,
-    "size":1
+    "Score":0,
+    "Size":1
   }
 ]

@@ -3,10 +3,10 @@
     "Name":"Amazon CloudSearch",
     "DBaaS":"yes",
     "License":"Commercial",
-    "Web-site":"aws.amazon.com/­cloudsearch",
+    "Website":"aws.amazon.com/­cloudsearch",
     "Details":"http://db-engines.com/en/system/Amazon+CloudSearch",
     "Type":"Search Engine",
-    "DB-engines-Score":1.73,
-    "size":174
+    "Score":1.73,
+    "Size":174
   }
 ]
