@@ -53,7 +53,7 @@ for c in "${categories[@]}"; do
    echo "... creating file: \"$f\""
    echo "[" >$f #overwrites file
    grep --no-group-separator -B$before -A$after \
-	"${CATEGORY_FIELD_NAME}\":\"$c" $CONV_JSON_FILE >>$f
+	"${CATEGORY_FIELD_NAME}\":\"$c\"" $CONV_JSON_FILE >>$f
    # remove trailing comma if present
    sed -i '$ s/,.*$//' $f
    echo "]" >>$f
