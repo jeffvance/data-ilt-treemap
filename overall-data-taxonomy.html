@@ -6,39 +6,56 @@
 <body>
 <h1>Overall "Data" Taxonomy</h1>
 
-<h2>Ideal would be...</h2>
+<h2>In a perfect World...</h2>
 Ideally, there would be a single, standard, "taxonomy" that neatly describes the entire "Data"
 landscape. If such a "taxonomy" existed we would have a standard set of "categories", with straight
 forward, definitions for each category. It would be easy for customers or developers to figure out
-which technologies solve which problems, and which vendors provide which technologies. So assuming
-customers and developers understand the problems they have, life would be good.
+which technologies solve which problems, and which vendors provide which technologies. Assuming
+customers and developers understand the problems they need to solve (ie: their detailed requirements), 
+life would be good.
 
 <h2>Reality Check...</h2>
-The status quo doesn't resembled the above ideal state. There is not single "taxonomy" for data. 
+The status quo doesn't resemble the above ideal state - at least not with respect to the technolgoy
+and vendor landscape for "data". There is no single "taxonomy" for data and there are several reasons 
+why.
 New technolgoies and new vendors pop up (literally) daily. The rate of change is not constant or 
 uniform - some areas are more mature and stable - but there is a general lack of clean/standard
 categories even for the older more mature parts of the data landscape.
 
-<p>Industry analysts both 
-help solve this problem and contribute to it. Individual industry analyts to a great job of
-coming up with frameworks to help their clients understand what's going on - and they sell this
-insight. That's the good news. The bad news is that they rarely agree on the specific categories, etc.
+<p>Industry analysts both help solve this problem and contribute to it. 
+Individual industry analyts to an excellent job of coming up with frameworks to help their clients 
+understand what's going on - and they sell this insight. In particular, IDC, 451, Forrester, and 
+Gartner all have numerous, excellent, and hightly relevant research reports etc.  That's the good news. 
+The bad news is that they rarely agree on the specific categories, etc. Each analyst takes 
+pride in having "the best" research - this is where the differentiate and try to make money.
+Inconsistencies across reports can leave customers/develper wonder which report to believe or 
+confused for other reasons.
 </p>
 
-</p>Vendors also contribute to the "problem". Vendors inherrently strive to position their products 
-in a way that that sets them apart from their competition. They often position their products as being
-"comprehensive" addressing customer problems that transcend multiple categories. Vendors (generally)
-continuously innovate - thus constantly adding features and functions that potentially blur the 
+</p>Vendors also contribute to the "problem". Vendors inherrently strive to position their own products 
+in a way that that sets them apart from their competition. They emphasize their own strengths but rarely 
+mention their limitations (and do the converse for their competitors). Vendors often position their 
+products as being "comprehensive", claiming to address customer problems that transcend multiple 
+categories. No vendor wants to appear as a "niche player". Vendors (ideally) continuously innovate - 
+thus constantly adding features and functions that potentially blur the 
 lines with respect to which category or categories their product(s) fit in. 
 </p>
 
 <p>
-So we don't have one taxonomy for "Data" we have many. All of them (probalby) have merit, some are 
-(undoubtedly) better than others. 
+All of these factors help explain why there is no single agreed upon taxonomy for "Data". 
+Instead of one, there are many.  To be fair, is likely that most reports published by analysts or 
+vendors have merit individually. In some case, specific reports are "specialized" 
+and "zoom in" on one part of the landscape and cover it well. As a resulut, some reports are
+better than others (more complete or correct, etc). We aren't endorsing or criticizing any 
+existing industry analyst work here.  We are simply noting we have not found any single source 
+that meets all of our own internal needs (broad, objective, accurate, data driven, transparent, etc). 
+that is broad, accurate, up to date, open/transparent with respect to it's methodology, etc. 
+This leave Red Hat having to piece the picture together from various sources (or do the analysis 
+ourselves). Wee suspect other are in the same or similar boat.
 
-<h2>About Red Hat, With Respect to "Data"...</2>
+<h2>About Red Hat, With Respect to "Data"...</h2>
 
-<h3>Not a consultant, but we are a "trusted advisor"</3>
+<h3>Red Hat "neutral" and "trusted advisor"</h3>
 Red Hat is not in specificaly in the business of creating taxonomies or advising customers which 
 vendor to pick. In fact, as a "Platform Software Vendor" with a very large set of partners with 
 whom we collaborate and go to market with, and a very large number of ISVs that "run on" or "work
@@ -50,7 +67,7 @@ considered by customers to be a "Trusted Advisor". In some cases, our neutrality
 reason why Red Hat is trusted.
 </p>
 
-<h2>Not Historically a "Data"/"Database" Vendor, but Increasingly relevant...</h3>
+<h3>Not Historically a "Data"/"Database" Vendor, but Increasingly relevant...</h3>
 Red Hat continues to grow our set of products notably expanding our product set beyodn the "Operating 
 System" to include middlware, "Open Hybrid Cloud" products (OpenStack and OpenShift), and pushing
 into the Storage Software space with Glsuter and Ceph. 
@@ -75,18 +92,41 @@ of those subjects would likely feature a discussion of one or more of the newer 
 </p>
 
 <p>
-With Red Hat being in the Storae Software business, we are acatually directly participating in 
-one key area. Red Hat's storage portfolio today include Gluster and Ceph with together provide
-industry leading, highly competive, scalable, cost effective "Software Defined Storage" products
-providing file, block and object storage. We are actively working to insure our stroage products
-are well integrate with our own products as well as key thrid party products through partnerships
-and ISV relationships.
+Today, Red Hat is in the Storage Software business. As a result, we are actually directly 
+participating in one of the key areas. Red Hat's storage portfolio today includes Gluster and Ceph 
+which, together provide industry leading, highly competive, scalable, cost effective "Software Defined 
+Storage" soltuions for providing file, block and object storage. We are actively working to insure 
+our stroage products are well integrate with our own products (especially OpenStack, OpenShift, RHEL
+and RHEL Atomic) as well as key Third Party products through engineering/strategic partnerships and 
+ISV relationships.
 </p>
 
-<h3>Thus...</h3>
-Red Hat continues to study and refine our product and partnering strategies with respect to the
-evolving data landscape.
 
+<h2>Overall Data Taxonomy Red Hat is using (internally)</h2>
+Red Hat continues to study and refine our product and partnering strategies with respect to the
+evolving data landscape. To help structure those discussion we "standardized" on a taxonomy to be 
+used internally. 
+
+<p>
+To avoid (overly) boiling the ocean we are primarily looking at three high level areas.
+
+<ul>
+<li>
+Database Landscape - Covering the wide and growing array of "database" technolgies and vendors. Here
+is where you will find all the relational and non-relational databses (the later being a very diversified
+group). 
+</li>
+<li>
+Data Processing/Analytics - This area is especially tricky becuase there are is a lot of duplicity 
+in intent. For now we have chosen to segregate base on "old vs new". We lump the tradtional tools and
+technolgoies built around tradtional relational databases under the heading of "Busienss Intelligence" and
+use the category of "Data Processing" to cover the new technolgoies that specialize in analytics on 
+unstrctured data. 
+</li>
+<li>
+Storage Software - 
+</li>
+<ul>
 
 
 
