@@ -1,9 +1,4 @@
 [
-    "Details":"http://db-engines.com/en/system/EJDB",
-    "Type":"Document store",
-    "Score":0,
-    "Size":1
-  },
   {
     "Name":"Event Store",
     "DBaaS":"no",

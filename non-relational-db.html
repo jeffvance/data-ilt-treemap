@@ -1,6 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+   <meta charset="utf-8">
+
+   <title>Non-Relational Databases</title>
+   <link rel="stylesheet" type="text/css" href="js/DataTables-1.10.7/media/css/jquery.dataTables.css">
+   <style>
+     #tbl-container {
+       width: 600px;
+     }
+     #nonrel-tbl a {
+       text-decoration: none;
+     }
+   </style>
+ 
+   <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.js"></script>
+   <script type="text/javascript" language="javascript" src="js/DataTables-1.10.7/media/js/jquery.dataTables.js"></script>
+
+   <script type="text/javascript" language="javascript" class="init">
+    $(document).ready(function() {
+       $('#nonrel-tbl').dataTable({ // init table
+           "lengthMenu": [[-1, 10, 25], ["All", 10, 25]]
+       });
+    });
+   </script>
 </head>
 
 <body>
@@ -16,6 +39,7 @@ These companies were among the first to encounter intractable issues with scalin
 were simply unsolvable with tradtional relational databases. 
 </p>
 
+<a href="#nonrel-table"><i>Jump to summary table</i></a>
 
 <h2>Abundance of OpenSource</h2>
 In many cases, these technologies were open sourced, other companies and developers joined in, and then 
@@ -36,11 +60,154 @@ NoSQL systems are more scalable and provide superior performance. As companies e
 
 <h2>Tabular View</h2>
 
-<p>
-Click 
-<a href="dt-all.html">here</a> 
-to browse a sortable and searchable table of all database offerings.
-</p>
+<div id="tbl-container">
+ <section>
+  <a name="nonrel-table"></a>
+  <h3>Non-Value Relational Databases</h3>
+
+  <table id="nonrel-tbl" class="display compact" cellspacing="0" width="100%">
+   <thead>
+    <tr>
+     <th>Type<br><small><i>(click for definition)</i></small></th>
+     <th>Table Summary<br>
+      <small><i>
+       (click for summary of all offerings of this type)
+      </i></small></th>
+    </tr>
+   </thead>
+ 
+   <tfoot>
+    <tr>
+     <th>Type</th>
+     <th>Table Summary</th>
+    </tr>
+   </tfoot>
+
+   <tbody>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Content+Stores">Content Store</a>
+     </td>
+     <td>
+      <a href="dt-subset-Content_store.html">all content store offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Document+Stores">Document Store</a>
+     </td>
+     <td>
+      <a href="dt-subset-Document_store.html">all document store offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Event+Stores">Event Store</a>
+     </td>
+     <td>
+      <a href="dt-subset-Event_Store.html">all event store offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Graph+DBMS">Graph DBMS</a>
+     </td>
+     <td>
+      <a href="dt-subset-Graph_DBMS.html">all graph dbms offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Event+Stores">Event Store</a>
+     </td>
+     <td>
+      <a href="dt-subset-Event_Store.html">all event store offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Key-value+Stores">Key-Value stores</a>
+     </td>
+     <td>
+      <a href="dt-subset-Key-value_store.html">all key-value store offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Multivalue+DBMS">Multi-value DBMS</a>
+     </td>
+     <td>
+      <a href="dt-subset-Multivalue_DBMS.html">all multi-value DBMS offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>Mutliple models
+      <small><i>(belong to multiple categories)</i></small>
+     </td>
+     <td>
+      <a href="dt-subset-Multi-model.html">all "multi model" offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Native+XML+DBMS">Native XML DBMS</a>
+     </td>
+     <td>
+      <a href="dt-subset-Native_XML_DBMS.html">all native XML DBMS offerings</>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Navigational+DBMS">Navigational DBMS</a>
+     </td>
+     <td>
+      <a href="dt-subset-Navigational_DBMS.html">all navigational DBMS offerings</a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Object+oriented+DBMS">Object Oriented DBMS</a>
+     </td>
+     <td>
+      <a href="dt-subset-Object_oriented_DBMS.html">all object oriented DBMS offerings</a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/RDF+Stores">RDF Stores</a>
+     </td>
+     <td>
+      <a href="dt-subset-RDF_store.html">all RDF store offerings</a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Search+Engines">Search Engines</a>
+     </td>
+     <td>
+      <a href="dt-subset-Search_Engine.html">all search engine offerings</a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Time+Series+DBMS">Time Series DBMS</a>
+     </td>
+     <td>
+      <a href="dt-subset-Time_Series_DBMS.html">all time series DBMS offerings</a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://db-engines.com/en/article/Wide+Column+Stores">Wide Column Stores</a>
+     </td>
+     <td>
+      <a href="dt-subset-Wide_column_store.html">all time wide column store offerings</a>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ <section>
+</div>
 
 </body>
 </html>
