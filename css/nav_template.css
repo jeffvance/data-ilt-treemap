@@ -66,12 +66,21 @@ p {
 
 nav ul {
   list-style-type: none;
-  margin: 0;
   padding: 0;
+  margin-top: -5px;
+  margin-bottom: -5px;
+}
+
+nav h3 {
+  margin-bottom: 5px;
 }
 
 nav ul ul {
-  padding: 12px;
+  padding: 5px 0 3px 15px;
+}
+
+nav ul ul li:last-child { /*style the last <li> under nested <ul>s*/
+  padding-bottom: 4px;
 }
 
 nav a {
